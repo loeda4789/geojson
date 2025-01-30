@@ -1313,70 +1313,7 @@
     "popularity":""
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":43,
-    "name":"Spielplatz am Strand",
-    "category":"",
-    "subcategory":"",
-    "description":"",
-    "icon":"",
-    "image":"",
-    "address":"",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"",
-    "web":"",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":44,
-    "name":"Trampolin",
-    "category":"",
-    "subcategory":"",
-    "description":"",
-    "icon":"",
-    "image":"",
-    "address":"",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"",
-    "web":"",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
+ 
   {
     "type": "Feature",
     "geometry": {
