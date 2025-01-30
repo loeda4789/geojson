@@ -10,8 +10,8 @@
     "properties": {
     "id":1,
     "name":"Kaiser-Wilhelm-Denkmal",
-    "category":"freizeit",
-    "subcategory":"outdoor_aktivitaeten",
+    "category":"inselhighlights",
+    "subcategory":"sehenswuerdigkeiten",
     "description":"Das Kaiser-Wilhelm-Denkmal auf Norderney ist ein 13 Meter hoher Obelisk, der zwischen 1898 und 1899 zur Erinnerung an die Reichseinigung von 1871 und Kaiser Wilhelm I. errichtet wurde. Ursprünglich mit einer Bronzebüste und einem Reichsadler geschmückt, symbolisiert das Denkmal heute mit einer Möwenskulptur die Verbundenheit zur Nordsee. Es besteht aus Steinen aus 75 deutschen Städten, die symbolisch die Einheit des Deutschen Reichs darstellen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678e465e09ed44a339a48692_Kaiser_Wilhelm_Denkmal_NOR.JPG",
@@ -37,6 +37,38 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 7.149427180728063,53.71232805261603 ]
+    },
+    "properties": {
+    "id":45,
+    "name":"Minigolf am Januskopf",
+    "category":"freizeit",
+    "subcategory":"outdoor_aktivitaeten",
+    "description":"Minigolf am Januskopf bietet Spaß und Unterhaltung für die ganze Familie inmitten einer malerischen Umgebung. Die liebevoll gestaltete Anlage liegt unweit des Strandes und begeistert mit abwechslungsreichen Bahnen, die sowohl für Anfänger als auch für geübte Spieler eine Herausforderung darstellen. Während der Spielpausen können Sie die frische Nordseeluft genießen und die Aussicht auf die umliegende Natur bewundern. Ob als entspannter Zeitvertreib oder als sportlicher Wettkampf – eine Runde Minigolf am Januskopf ist die perfekte Freizeitaktivität für Groß und Klein. ",
+    "icon":"",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b246a79e9e11c06b10f25_Minigolf.jpg",
+    "address":"Am Januskopf, 26548 Norderney",
+    "opening hours":"",
+    "tags":"",
+    "features":"",
+    "comments":null,
+    "rating":null,
+    "price":"Pro Person: 6€, Kinder bis 10 Jahre: 5€",
+    "web":"https://www.norderney.cc/minigolf-auf-norderney",
+    "menu":"",
+    "phone":"",
+    "facebook":"",
+    "instagram":"",
+    "booking":"",
+    "suitability":"",
+    "weather_condition":"",
+    "popularity":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 7.161882,53.6985646 ]
     },
     "properties": {
@@ -44,7 +76,7 @@
     "name":"Watt Welten",
     "category":"inselhighlights",
     "subcategory":"museen",
-    "description":"DasWatt Welten\nDas Watt Welten UNESCO-Weltnaturerbe Wattenmeer - Besucherzentrum am Hafen lädt kleine und große Gäste ein, die faszinierende Welt des Wattenmeeres spielerisch zu erkunden. Besucher können Tiere aus nächster Nähe beobachten, virtuell Dünen entstehen lassen oder im Inselgarten sprechende Pflanzen erleben. Mit interaktiven Ausstellungen und spannenden Rätseln wird der einzigartige Lebensraum des Wattenmeeres lebendig.",
+    "description":"Das Watt Welten UNESCO-Weltnaturerbe Wattenmeer - Besucherzentrum am Hafen lädt kleine und große Gäste ein, die faszinierende Welt des Wattenmeeres spielerisch zu erkunden. Besucher können Tiere aus nächster Nähe beobachten, virtuell Dünen entstehen lassen oder im Inselgarten sprechende Pflanzen erleben. Mit interaktiven Ausstellungen und spannenden Rätseln wird der einzigartige Lebensraum des Wattenmeeres lebendig.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67939f7170397c9f7355d962_Watt-Welten.webp",
     "address":"Am Hafen 2, 26548 Norderney",
@@ -1307,102 +1339,6 @@
     "phone":"+49 (0) 172 2066005",
     "facebook":"",
     "instagram":"https://www.instagram.com/escaperoom_norderney/",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":43,
-    "name":"Spielplatz am Strand",
-    "category":"",
-    "subcategory":"",
-    "description":"",
-    "icon":"",
-    "image":"",
-    "address":"",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"",
-    "web":"",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":44,
-    "name":"Trampolin",
-    "category":"",
-    "subcategory":"",
-    "description":"",
-    "icon":"",
-    "image":"",
-    "address":"",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"",
-    "web":"",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 7.149427180728063,53.71232805261603 ]
-    },
-    "properties": {
-    "id":45,
-    "name":"Minigolf am Januskopf",
-    "category":"freizeit",
-    "subcategory":"outdoor_aktivitaeten",
-    "description":"Minigolf am Januskopf bietet Spaß und Unterhaltung für die ganze Familie inmitten einer malerischen Umgebung. Die liebevoll gestaltete Anlage liegt unweit des Strandes und begeistert mit abwechslungsreichen Bahnen, die sowohl für Anfänger als auch für geübte Spieler eine Herausforderung darstellen. Während der Spielpausen können Sie die frische Nordseeluft genießen und die Aussicht auf die umliegende Natur bewundern. Ob als entspannter Zeitvertreib oder als sportlicher Wettkampf – eine Runde Minigolf am Januskopf ist die perfekte Freizeitaktivität für Groß und Klein. ",
-    "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b246a79e9e11c06b10f25_Minigolf.jpg",
-    "address":"Am Januskopf, 26548 Norderney",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"Pro Person: 6€, Kinder bis 10 Jahre: 5€",
-    "web":"https://www.norderney.cc/minigolf-auf-norderney",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
     "booking":"",
     "suitability":"",
     "weather_condition":"",
