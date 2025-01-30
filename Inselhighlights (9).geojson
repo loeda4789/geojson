@@ -129,6 +129,38 @@
     "popularity":""
     }
   },
+ {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1742946968602705,53.71422413869108 ]
+    },
+    "properties": {
+    "id":47,
+    "name":"Reitschule Junkmann",
+    "category":"freizeit",
+    "subcategory":"outdoor_aktivitaeten",
+    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden können Anfänger und Fortgeschrittene gleichermaßen ihre Reitkünste verbessern oder einfach die Freude am Reiten genießen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermöglicht Ausritte durch die Dünenlandschaft und entlang des Strandes – ein Highlight für jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jüngsten Besuchern spielerisch den Umgang mit Pferden näherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
+    "icon":"",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b2408ce202ec14360b93e_reitschule%20junkmann.jpg",
+    "address":"Karl-Rieger-Weg 1a, 26548 Norderney",
+    "opening hours":"",
+    "tags":"",
+    "features":"",
+    "comments":"",
+    "rating":"",
+    "price":"",
+    "web":"http://www.reitschule-junkmann.de/",
+    "menu":"",
+    "phone":"",
+    "facebook":"",
+    "instagram":"",
+    "booking":"",
+    "suitability":"",
+    "weather_condition":"",
+    "popularity":""
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -1378,38 +1410,7 @@
     "popularity":""
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 7.1742946968602705,53.71422413869108 ]
-    },
-    "properties": {
-    "id":47,
-    "name":"Reitschule Junkmann",
-    "category":"freizeit",
-    "subcategory":"outdoor_aktivitaeten",
-    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden können Anfänger und Fortgeschrittene gleichermaßen ihre Reitkünste verbessern oder einfach die Freude am Reiten genießen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermöglicht Ausritte durch die Dünenlandschaft und entlang des Strandes – ein Highlight für jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jüngsten Besuchern spielerisch den Umgang mit Pferden näherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
-    "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b2408ce202ec14360b93e_reitschule%20junkmann.jpg",
-    "address":"Karl-Rieger-Weg 1a, 26548 Norderney",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":null,
-    "rating":null,
-    "price":"",
-    "web":"http://www.reitschule-junkmann.de/",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
+ 
   {
     "type": "Feature",
     "geometry": {
