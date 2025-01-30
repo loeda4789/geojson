@@ -10,8 +10,8 @@
     "properties": {
     "id":1,
     "name":"Kaiser-Wilhelm-Denkmal",
-    "category":"inselhighlights",
-    "subcategory":"sehenswuerdigkeiten",
+    "category":"freizeit",
+    "subcategory":"outdoor_aktivitaeten",
     "description":"Das Kaiser-Wilhelm-Denkmal auf Norderney ist ein 13 Meter hoher Obelisk, der zwischen 1898 und 1899 zur Erinnerung an die Reichseinigung von 1871 und Kaiser Wilhelm I. errichtet wurde. Ursprünglich mit einer Bronzebüste und einem Reichsadler geschmückt, symbolisiert das Denkmal heute mit einer Möwenskulptur die Verbundenheit zur Nordsee. Es besteht aus Steinen aus 75 deutschen Städten, die symbolisch die Einheit des Deutschen Reichs darstellen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678e465e09ed44a339a48692_Kaiser_Wilhelm_Denkmal_NOR.JPG",
@@ -119,38 +119,6 @@
     "rating":4.7,
     "price":"",
     "web":"",
-    "menu":"",
-    "phone":"",
-    "facebook":"",
-    "instagram":"",
-    "booking":"",
-    "suitability":"",
-    "weather_condition":"",
-    "popularity":""
-    }
-  },
- {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 7.1742946968602705,53.71422413869108 ]
-    },
-    "properties": {
-    "id":47,
-    "name":"Reitschule Junkmann",
-    "category":"freizeit",
-    "subcategory":"outdoor_aktivitaeten",
-    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden können Anfänger und Fortgeschrittene gleichermaßen ihre Reitkünste verbessern oder einfach die Freude am Reiten genießen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermöglicht Ausritte durch die Dünenlandschaft und entlang des Strandes – ein Highlight für jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jüngsten Besuchern spielerisch den Umgang mit Pferden näherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
-    "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b2408ce202ec14360b93e_reitschule%20junkmann.jpg",
-    "address":"Karl-Rieger-Weg 1a, 26548 Norderney",
-    "opening hours":"",
-    "tags":"",
-    "features":"",
-    "comments":"",
-    "rating":"",
-    "price":"",
-    "web":"http://www.reitschule-junkmann.de/",
     "menu":"",
     "phone":"",
     "facebook":"",
@@ -1345,7 +1313,70 @@
     "popularity":""
     }
   },
- 
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":43,
+    "name":"Spielplatz am Strand",
+    "category":"",
+    "subcategory":"",
+    "description":"",
+    "icon":"",
+    "image":"",
+    "address":"",
+    "opening hours":"",
+    "tags":"",
+    "features":"",
+    "comments":null,
+    "rating":null,
+    "price":"",
+    "web":"",
+    "menu":"",
+    "phone":"",
+    "facebook":"",
+    "instagram":"",
+    "booking":"",
+    "suitability":"",
+    "weather_condition":"",
+    "popularity":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":44,
+    "name":"Trampolin",
+    "category":"",
+    "subcategory":"",
+    "description":"",
+    "icon":"",
+    "image":"",
+    "address":"",
+    "opening hours":"",
+    "tags":"",
+    "features":"",
+    "comments":null,
+    "rating":null,
+    "price":"",
+    "web":"",
+    "menu":"",
+    "phone":"",
+    "facebook":"",
+    "instagram":"",
+    "booking":"",
+    "suitability":"",
+    "weather_condition":"",
+    "popularity":""
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -1410,7 +1441,38 @@
     "popularity":""
     }
   },
- 
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1742946968602705,53.71422413869108 ]
+    },
+    "properties": {
+    "id":47,
+    "name":"Reitschule Junkmann",
+    "category":"freizeit",
+    "subcategory":"outdoor_aktivitaeten",
+    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden können Anfänger und Fortgeschrittene gleichermaßen ihre Reitkünste verbessern oder einfach die Freude am Reiten genießen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermöglicht Ausritte durch die Dünenlandschaft und entlang des Strandes – ein Highlight für jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jüngsten Besuchern spielerisch den Umgang mit Pferden näherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
+    "icon":"",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b2408ce202ec14360b93e_reitschule%20junkmann.jpg",
+    "address":"Karl-Rieger-Weg 1a, 26548 Norderney",
+    "opening hours":"",
+    "tags":"",
+    "features":"",
+    "comments":null,
+    "rating":null,
+    "price":"",
+    "web":"http://www.reitschule-junkmann.de/",
+    "menu":"",
+    "phone":"",
+    "facebook":"",
+    "instagram":"",
+    "booking":"",
+    "suitability":"",
+    "weather_condition":"",
+    "popularity":""
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -1525,8 +1587,8 @@
     "opening hours":"",
     "tags":"",
     "features":"",
-    "comments":"",
-    "rating":"",
+    "comments":null,
+    "rating":null,
     "price":"",
     "web":"https://www.freizeit-norderney.de/lasertag/",
     "menu":"",
@@ -1553,12 +1615,12 @@
     "description":"Erleben Sie die schönsten Seiten Norderneys bei der Classic Fahrradtour – eine rund 10 km lange Entdeckungstour durch die beeindruckende Dünenlandschaft und zu den bekanntesten Hot-Spots der Insel. In 2,5 Stunden führen einheimische Guides die Teilnehmer durch den West- und Ostteil Norderneys und vermitteln spannende Einblicke in die Geschichte und Gegenwart der Insel.",
     "icon":"",
     "image":"",
-    "address":"Adolfsreihe 6, 26548 Norderney",
+    "address":"Adolfsreihe 6. 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
-    "comments":"",
-    "rating":"",
+    "comments":null,
+    "rating":null,
     "price":"",
     "web":"https://www.freizeit-norderney.de/fahrradtour/",
     "menu":"",
