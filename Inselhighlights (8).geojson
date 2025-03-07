@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.708546157615700,7.14471628161897 ]
+       "coordinates":  [ 7.14471628161897,53.708546157615700 ]
     },
     "properties": {
     "id":1,
@@ -37,7 +37,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71232805261600,7.14942718072806 ]
+       "coordinates":  [ 7.14942718072806,53.71232805261600 ]
     },
     "properties": {
     "id":45,
@@ -69,7 +69,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.6985646,7.161882 ]
+       "coordinates":  [ 7.161882,53.6985646 ]
     },
     "properties": {
     "id":2,
@@ -101,7 +101,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7085498,7.1567671 ]
+       "coordinates":  [ 7.1567671,53.7085498 ]
     },
     "properties": {
     "id":3,
@@ -133,7 +133,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7110066,7.1448387 ]
+       "coordinates":  [ 7.1448387,53.7110066 ]
     },
     "properties": {
     "id":4,
@@ -165,7 +165,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7113202,7.1591012 ]
+       "coordinates":  [ 7.1591012,53.7113202 ]
     },
     "properties": {
     "id":5,
@@ -197,7 +197,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71403121948240,7.16432809829711 ]
+       "coordinates":  [ 7.16432809829711,53.71403121948240 ]
     },
     "properties": {
     "id":6,
@@ -229,7 +229,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7105238,7.169699 ]
+       "coordinates":  [ 7.169699,53.7105238 ]
     },
     "properties": {
     "id":7,
@@ -261,7 +261,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70915512475620,7.183749753157490 ]
+       "coordinates":  [ 7.183749753157490,53.70915512475620 ]
     },
     "properties": {
     "id":8,
@@ -293,7 +293,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71377649992330,7.202837436552360 ]
+       "coordinates":  [ 7.202837436552360,53.71377649992330 ]
     },
     "properties": {
     "id":9,
@@ -325,7 +325,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7167415,7.1996916 ]
+       "coordinates":  [ 7.1996916,53.7167415 ]
     },
     "properties": {
     "id":10,
@@ -357,7 +357,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7099675,7.2299707 ]
+       "coordinates":  [ 7.2299707,53.7099675 ]
     },
     "properties": {
     "id":11,
@@ -389,7 +389,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7165876,7.3019713 ]
+       "coordinates":  [ 7.3019713,53.7165876 ]
     },
     "properties": {
     "id":12,
@@ -421,7 +421,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71940966740350,7.345751388072430 ]
+       "coordinates":  [ 7.345751388072430,53.71940966740350 ]
     },
     "properties": {
     "id":13,
@@ -453,7 +453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70206832885740,7.1439433097839300 ]
+       "coordinates":  [ 7.1439433097839300,53.70206832885740 ]
     },
     "properties": {
     "id":14,
@@ -485,7 +485,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7033856,7.1441855 ]
+       "coordinates":  [ 7.1441855,53.7033856 ]
     },
     "properties": {
     "id":15,
@@ -517,7 +517,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7089238,7.1484011 ]
+       "coordinates":  [ 7.1484011,53.7089238 ]
     },
     "properties": {
     "id":16,
@@ -549,7 +549,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
+       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
     },
     "properties": {
     "id":17,
@@ -581,7 +581,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70732733403140,7.164587508163760 ]
+       "coordinates":  [ 7.164587508163760,53.70732733403140 ]
     },
     "properties": {
     "id":18,
@@ -613,7 +613,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7027975,7.1686945 ]
+       "coordinates":  [ 7.1686945,53.7027975 ]
     },
     "properties": {
     "id":19,
@@ -645,7 +645,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
+       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
     },
     "properties": {
     "id":20,
@@ -677,7 +677,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70434906864360,7.144089581510600 ]
+       "coordinates":  [ 7.144089581510600,53.70434906864360 ]
     },
     "properties": {
     "id":21,
@@ -709,7 +709,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70484497217800,7.147004596527130 ]
+       "coordinates":  [ 7.147004596527130,53.70484497217800 ]
     },
     "properties": {
     "id":22,
@@ -741,7 +741,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70398644458400,7.148982465702410 ]
+       "coordinates":  [ 7.148982465702410,53.70398644458400 ]
     },
     "properties": {
     "id":23,
@@ -773,7 +773,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7045356,7.145669 ]
+       "coordinates":  [ 7.145669,53.7045356 ]
     },
     "properties": {
     "id":24,
@@ -805,7 +805,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7035017,7.1484993 ]
+       "coordinates":  [ 7.1484993,53.7035017 ]
     },
     "properties": {
     "id":25,
@@ -837,7 +837,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7045356,7.145669 ]
+       "coordinates":  [ 7.145669,53.7045356 ]
     },
     "properties": {
     "id":26,
@@ -869,7 +869,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7124844,7.1509768 ]
+       "coordinates":  [ 7.1509768,53.7124844 ]
     },
     "properties": {
     "id":27,
@@ -901,7 +901,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7081771,7.1387478 ]
+       "coordinates":  [ 7.1387478,53.7081771 ]
     },
     "properties": {
     "id":28,
@@ -933,7 +933,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.709927333604200,7.147142321046400 ]
+       "coordinates":  [ 7.147142321046400,53.709927333604200 ]
     },
     "properties": {
     "id":29,
@@ -965,7 +965,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7077751159668,7.144137382507320 ]
+       "coordinates":  [ 7.144137382507320,53.7077751159668 ]
     },
     "properties": {
     "id":30,
@@ -997,7 +997,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70547866821280,7.1414971351623500 ]
+       "coordinates":  [ 7.1414971351623500,53.70547866821280 ]
     },
     "properties": {
     "id":31,
@@ -1029,7 +1029,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7071327,7.143214 ]
+       "coordinates":  [ 7.143214,53.7071327 ]
     },
     "properties": {
     "id":32,
@@ -1061,7 +1061,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7084577,7.1441954 ]
+       "coordinates":  [ 7.1441954,53.7084577 ]
     },
     "properties": {
     "id":33,
@@ -1093,7 +1093,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70646667480460,7.14284610748291 ]
+       "coordinates":  [ 7.14284610748291,53.70646667480460 ]
     },
     "properties": {
     "id":34,
@@ -1125,7 +1125,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70693588256830,7.1467814445495600 ]
+       "coordinates":  [ 7.1467814445495600,53.70693588256830 ]
     },
     "properties": {
     "id":35,
@@ -1157,7 +1157,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70574999900880,7.146080874379280 ]
+       "coordinates":  [ 7.146080874379280,53.70574999900880 ]
     },
     "properties": {
     "id":36,
@@ -1189,7 +1189,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7009696,7.1420671 ]
+       "coordinates":  [ 7.1420671,53.7009696 ]
     },
     "properties": {
     "id":37,
@@ -1198,7 +1198,7 @@
     "subcategory":"top5_straende",
     "description":"Der Weststrand von Norderney ist ein idealer Ort für Familien. Mit seiner Nähe zum Stadtzentrum bietet er einen leichten Zugang und verfügt über Strandkörbe sowie sanitäre Einrichtungen. Der flach abfallende Sandstrand macht ihn perfekt für Kinder, während Wassersportler die Wellen genießen können. Hier lässt sich ein erholsamer Tag mit Blick auf den Sonnenuntergang ausklingen.",
     "icon":"",
-    "image":"",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae90805c3f4f97d83bdc2_weststrand.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1221,7 +1221,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7155271,7.1583436 ]
+       "coordinates":  [ 7.1583436,53.7155271 ]
     },
     "properties": {
     "id":38,
@@ -1230,7 +1230,7 @@
     "subcategory":"top5_straende",
     "description":"Der Nordstrand von Norderney ist der größte Strand der Insel und ideal für aktive Urlauber sowie Ruhesuchende. Er bietet viel Platz für Spaziergänge, Strandspiele und Sonnenbaden, während Strandkörbe und gastronomische Angebote für Komfort sorgen. Familien schätzen den flachen Zugang zum Wasser und die zahlreichen Freizeitmöglichkeiten. Auch Wassersportler finden hier optimale Bedingungen für Aktivitäten wie Kitesurfen oder Windsurfen.",
     "icon":"",
-    "image":"",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae908a5ddb10341af09a2_nordstrand.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1253,7 +1253,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.722991505513400,7.208630225336850 ]
+       "coordinates":  [ 7.208630225336850,53.722991505513400 ]
     },
     "properties": {
     "id":39,
@@ -1285,7 +1285,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.72301864488180,7.241246581888100 ]
+       "coordinates":  [ 7.241246581888100,53.72301864488180 ]
     },
     "properties": {
     "id":40,
@@ -1317,7 +1317,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7112007,7.1519159 ]
+       "coordinates":  [ 7.1519159,53.7112007 ]
     },
     "properties": {
     "id":42,
@@ -1349,7 +1349,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.711074588289,7.1596060828734600 ]
+       "coordinates":  [ 7.1596060828734600,53.711074588289 ]
     },
     "properties": {
     "id":46,
@@ -1381,7 +1381,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71422413869100,7.1742946968602700 ]
+       "coordinates":  [ 7.1742946968602700,53.71422413869100 ]
     },
     "properties": {
     "id":47,
@@ -1413,7 +1413,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.71142228722320,7.174763237730530 ]
+       "coordinates":  [ 7.174763237730530,53.71142228722320 ]
     },
     "properties": {
     "id":48,
@@ -1445,7 +1445,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.706230668308300,7.156669138407600 ]
+       "coordinates":  [ 7.156669138407600,53.706230668308300 ]
     },
     "properties": {
     "id":49,
@@ -1477,7 +1477,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.712600772779900,7.150256068185130 ]
+       "coordinates":  [ 7.150256068185130,53.712600772779900 ]
     },
     "properties": {
     "id":50,
@@ -1509,7 +1509,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
+       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
     },
     "properties": {
     "id":51,
@@ -1541,7 +1541,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.705281,7.1449488 ]
+       "coordinates":  [ 7.1449488,53.705281 ]
     },
     "properties": {
     "id":52,
@@ -1573,7 +1573,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.703012513690965,7.1411633439863165 ]
+       "coordinates":  [ 7.1411633439863165,53.703012513690965 ]
     },
     "properties": {
     "id":53,
@@ -1605,7 +1605,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.704577748926866,7.144952102815867 ]
+       "coordinates":  [ 7.144952102815867,53.704577748926866 ]
     },
     "properties": {
     "id":54,
@@ -1614,7 +1614,7 @@
     "subcategory":"top5_must_sees",
     "description":"Der Kurplatz ist das Herzstück der Insel und umgeben von historischen Gebäuden wie dem Conversationshaus. Hier finden regelmäßig Konzerte und Veranstaltungen statt, die für eine besondere Atmosphäre sorgen. Ein idealer Ort zum Verweilen und das Inselleben zu genießen.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae905477e649ca4708f15_Kurplatz.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1637,7 +1637,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7081663,7.1438107 ]
+       "coordinates":  [ 7.1438107,53.7081663 ]
     },
     "properties": {
     "id":55,
@@ -1669,7 +1669,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7026252746582,7.167611122131348 ]
+       "coordinates":  [ 7.167611122131348,53.7026252746582 ]
     },
     "properties": {
     "id":56,
@@ -1678,7 +1678,7 @@
     "subcategory":"top5_must_sees",
     "description":"Der Jachthafen von Norderney bietet einen wunderschönen Blick auf das Wattenmeer und die zahlreichen Segelboote und Yachten, die hier anlegen. Besonders bei Sonnenuntergang entsteht eine idyllische Atmosphäre mit maritimem Flair. Wer die Hafenstimmung liebt, kann hier entspannen und den Schiffen beim Ein- und Auslaufen zusehen.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae9068c598d0520081d30_jachthafen.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1701,7 +1701,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.714825736714914,7.194940640686309 ]
+       "coordinates":  [ 7.194940640686309,53.714825736714914 ]
     },
     "properties": {
     "id":57,
@@ -1733,7 +1733,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7081771,7.1387478 ]
+       "coordinates":  [ 7.1387478,53.7081771 ]
     },
     "properties": {
     "id":58,
@@ -1765,7 +1765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7124844,7.1509768 ]
+       "coordinates":  [ 7.1509768,53.7124844 ]
     },
     "properties": {
     "id":59,
@@ -1797,7 +1797,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.707017014341034,7.1382918167871745 ]
+       "coordinates":  [ 7.1382918167871745,53.707017014341034 ]
     },
     "properties": {
     "id":60,
@@ -1806,7 +1806,7 @@
     "subcategory":"top5_cafes_bars",
     "description":"Das Café Marienhöhe ist eines der ältesten Cafés auf Norderney und bietet einen traumhaften Blick auf die Nordsee. Hier kannst du in stilvollem Ambiente hausgemachte Torten genießen und dabei die frische Meeresluft einatmen. Die Lage auf einer kleinen Anhöhe macht es besonders einzigartig.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae907613ae25297032ec5_marienh%C3%B6he.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1829,7 +1829,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.722991505513400,7.208630225336850 ]
+       "coordinates":  [ 7.208630225336850,53.722991505513400 ]
     },
     "properties": {
     "id":61,
@@ -1861,7 +1861,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70825958251953,7.143804550170898 ]
+       "coordinates":  [ 7.143804550170898,53.70825958251953 ]
     },
     "properties": {
     "id":62,
@@ -1870,7 +1870,7 @@
     "subcategory":"top5_cafes_bars",
     "description":"Das Café Friedrich liegt zentral in der Friedrichstraße und ist ein Klassiker auf Norderney. Es besticht durch sein gemütliches Ambiente und die große Auswahl an hausgemachten Kuchen und Torten. Ideal für eine kleine Verschnaufpause beim Stadtbummel.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae90790f957db1abace83_friedrich.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1893,7 +1893,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70738068717688,7.138742611111923 ]
+       "coordinates":  [ 7.138742611111923,53.70738068717688 ]
     },
     "properties": {
     "id":63,
@@ -1925,7 +1925,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70738068717688,7.138742611111923 ]
+       "coordinates":  [ 7.138742611111923,53.70738068717688 ]
     },
     "properties": {
     "id":64,
@@ -1957,7 +1957,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.70201517687193,7.142398279499287 ]
+       "coordinates":  [ 7.142398279499287,53.70201517687193 ]
     },
     "properties": {
     "id":65,
@@ -1966,7 +1966,7 @@
     "subcategory":"top5_restaurants",
     "description":"Direkt am Weststrand gelegen, ist die Giftbude die perfekte Adresse für entspanntes Essen mit Strandblick. Hier gibt es kreative Burger, frische Bowls und leckere Drinks. Ideal für eine ungezwungene Mahlzeit mit Meeresrauschen im Hintergrund.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67cae9060d4754219f1031ac_giftbude.PNG",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1989,7 +1989,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.7124844,7.1509768 ]
+       "coordinates":  [ 7.1509768,53.7124844 ]
     },
     "properties": {
     "id":66,
@@ -2021,7 +2021,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 53.709961891011254,7.147134335118848 ]
+       "coordinates":  [ 7.147134335118848,53.709961891011254 ]
     },
     "properties": {
     "id":67,
