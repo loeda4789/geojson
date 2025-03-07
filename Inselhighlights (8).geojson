@@ -5,18 +5,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.14471628161897,53.708546157615700 ]
+       "coordinates":  [ 53.708546157615700,7.14471628161897 ]
     },
     "properties": {
     "id":1,
     "name":"Kaiser-Wilhelm-Denkmal",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Das Kaiser-Wilhelm-Denkmal auf Norderney ist ein 13 Meter hoher Obelisk, der zwischen 1898 und 1899 zur Erinnerung an die Reichseinigung von 1871 und Kaiser Wilhelm I. errichtet wurde. Ursprunglich mit einer Bronzebuste und einem Reichsadler geschmuckt, symbolisiert das Denkmal heute mit einer Mowenskulptur die Verbundenheit zur Nordsee. Es besteht aus Steinen aus 75 deutschen Stadten, die symbolisch die Einheit des Deutschen Reichs darstellen.",
+    "description":"Das Kaiser-Wilhelm-Denkmal auf Norderney ist ein 13 Meter hoher Obelisk, der zwischen 1898 und 1899 zur Erinnerung an die Reichseinigung von 1871 und Kaiser Wilhelm I. errichtet wurde. Ursprünglich mit einer Bronzebüste und einem Reichsadler geschmückt, symbolisiert das Denkmal heute mit einer Möwenskulptur die Verbundenheit zur Nordsee. Es besteht aus Steinen aus 75 deutschen Städten, die symbolisch die Einheit des Deutschen Reichs darstellen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678e465e09ed44a339a48692_Kaiser_Wilhelm_Denkmal_NOR.JPG",
-    "address":"Knyphausenstrase 1A, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "address":"Knyphausenstraße 1A, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":930,
@@ -37,14 +37,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.14942718072806,53.71232805261600 ]
+       "coordinates":  [ 53.71232805261600,7.14942718072806 ]
     },
     "properties": {
     "id":45,
     "name":"Minigolf am Januskopf",
     "category":"freizeit",
     "subcategory":"outdoor_aktivitaeten",
-    "description":"Minigolf am Januskopf bietet Spas und Unterhaltung fur die ganze Familie inmitten einer malerischen Umgebung. Die liebevoll gestaltete Anlage liegt unweit des Strandes und begeistert mit abwechslungsreichen Bahnen, die sowohl fur Anfanger als auch fur geubte Spieler eine Herausforderung darstellen. Wahrend der Spielpausen konnen Sie die frische Nordseeluft geniesen und die Aussicht auf die umliegende Natur bewundern. Ob als entspannter Zeitvertreib oder als sportlicher Wettkampf - eine Runde Minigolf am Januskopf ist die perfekte Freizeitaktivitat fur Gros und Klein. ",
+    "description":"Minigolf am Januskopf bietet Spaß und Unterhaltung für die ganze Familie inmitten einer malerischen Umgebung. Die liebevoll gestaltete Anlage liegt unweit des Strandes und begeistert mit abwechslungsreichen Bahnen, die sowohl für Anfänger als auch für geübte Spieler eine Herausforderung darstellen. Während der Spielpausen können Sie die frische Nordseeluft genießen und die Aussicht auf die umliegende Natur bewundern. Ob als entspannter Zeitvertreib oder als sportlicher Wettkampf – eine Runde Minigolf am Januskopf ist die perfekte Freizeitaktivität für Groß und Klein. ",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b246a79e9e11c06b10f25_Minigolf.jpg",
     "address":"Am Januskopf, 26548 Norderney",
@@ -69,18 +69,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.161882,53.6985646 ]
+       "coordinates":  [ 53.6985646,7.161882 ]
     },
     "properties": {
     "id":2,
     "name":"Watt Welten",
     "category":"inselhighlights",
     "subcategory":"museen",
-    "description":"Das Watt Welten UNESCO-Weltnaturerbe Wattenmeer - Besucherzentrum am Hafen ladt kleine und grose Gaste ein, die faszinierende Welt des Wattenmeeres spielerisch zu erkunden. Besucher konnen Tiere aus nachster Nahe beobachten, virtuell Dunen entstehen lassen oder im Inselgarten sprechende Pflanzen erleben. Mit interaktiven Ausstellungen und spannenden Ratseln wird der einzigartige Lebensraum des Wattenmeeres lebendig.",
+    "description":"Das Watt Welten UNESCO-Weltnaturerbe Wattenmeer - Besucherzentrum am Hafen lädt kleine und große Gäste ein, die faszinierende Welt des Wattenmeeres spielerisch zu erkunden. Besucher können Tiere aus nächster Nähe beobachten, virtuell Dünen entstehen lassen oder im Inselgarten sprechende Pflanzen erleben. Mit interaktiven Ausstellungen und spannenden Rätseln wird der einzigartige Lebensraum des Wattenmeeres lebendig.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67939f7170397c9f7355d962_Watt-Welten.webp",
     "address":"Am Hafen 2, 26548 Norderney",
-    "opening hours":"taglich, 10:00 - 17:00; montags geschlossen",
+    "opening hours":"täglich, 10:00 – 17:00; montags geschlossen",
     "tags":"",
     "features":"",
     "comments":717,
@@ -101,18 +101,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1567671,53.7085498 ]
+       "coordinates":  [ 53.7085498,7.1567671 ]
     },
     "properties": {
     "id":3,
     "name":"Wasserturm Norderney",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Der 46,2 Meter hohe, denkmalgeschutzte Wasserturm Norderney mit seinen faszinierenden Klinkerornamenten und einer Aussichtsplattform speichert 500.000 Liter Trinkwasser und bietet einen spektakularen Blick uber die Insel und ihre Nachbarn.",
+    "description":"Der 46,2 Meter hohe, denkmalgeschützte Wasserturm Norderney mit seinen faszinierenden Klinkerornamenten und einer Aussichtsplattform speichert 500.000 Liter Trinkwasser und bietet einen spektakulären Blick über die Insel und ihre Nachbarn.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678eb20c299ec0c9bbadc6a5_Norderney_Wasserturm.jpg",
     "address":"Am Wasserturm 9, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":58,
@@ -133,18 +133,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1448387,53.7110066 ]
+       "coordinates":  [ 53.7110066,7.1448387 ]
     },
     "properties": {
     "id":4,
-    "name":"Historischer Stockanker Georgshohe",
+    "name":"Historischer Stockanker Georgshöhe",
     "category":"inselhighlights",
     "subcategory":"aussichtspunkte",
-    "description":"Auf der Georgshohe, unweit der Dunen von Norderney, thront ein beeindruckender historischer Stockanker, der an die maritime Geschichte der Insel erinnert. Dieser imposante Anker wurde einst von einem grosen Segelschiff genutzt und spater als Denkmal aufgestellt. Heute ist er ein beliebtes Fotomotiv und ein Zeugnis der Seefahrtstradition, die eng mit der Geschichte Norderneys verbunden ist.",
+    "description":"Auf der Georgshöhe, unweit der Dünen von Norderney, thront ein beeindruckender historischer Stockanker, der an die maritime Geschichte der Insel erinnert. Dieser imposante Anker wurde einst von einem großen Segelschiff genutzt und später als Denkmal aufgestellt. Heute ist er ein beliebtes Fotomotiv und ein Zeugnis der Seefahrtstradition, die eng mit der Geschichte Norderneys verbunden ist.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793749976c8611efdd9ba4e_Georgshoehe.webp",
-    "address":"Kaiserstrase 28, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "address":"Kaiserstraße 28, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":134,
@@ -165,18 +165,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1591012,53.7113202 ]
+       "coordinates":  [ 53.7113202,7.1591012 ]
     },
     "properties": {
     "id":5,
     "name":"Kap Norderney (Bake)",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Das Kap Norderney, auch als Bake bekannt, ist ein markantes Seezeichen und Wahrzeichen der Insel. Ursprunglich 1848 errichtet, diente die 17 Meter hohe Holzstruktur jahrzehntelang als Navigationshilfe fur die Schifffahrt. Heute steht die Bake nicht nur als technisches Denkmal, sondern auch als Symbol fur die maritime Vergangenheit Norderneys und bietet Besuchern ein beeindruckendes Fotomotiv vor der Kulisse der Nordsee.",
+    "description":"Das Kap Norderney, auch als Bake bekannt, ist ein markantes Seezeichen und Wahrzeichen der Insel. Ursprünglich 1848 errichtet, diente die 17 Meter hohe Holzstruktur jahrzehntelang als Navigationshilfe für die Schifffahrt. Heute steht die Bake nicht nur als technisches Denkmal, sondern auch als Symbol für die maritime Vergangenheit Norderneys und bietet Besuchern ein beeindruckendes Fotomotiv vor der Kulisse der Nordsee.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b3617e55e54a4857857_Kap.webp",
     "address":"Am Kap 13A, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":643,
@@ -197,18 +197,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.16432809829711,53.71403121948240 ]
+       "coordinates":  [ 53.71403121948240,7.16432809829711 ]
     },
     "properties": {
     "id":6,
     "name":"Thalasso Plattform am Nordstrand",
     "category":"inselhighlights",
     "subcategory":"aussichtspunkte",
-    "description":"Die Thalasso-Plattform am Nordstrand von Norderney ist ein einzigartiger Ort, um die Kraft des Meeres hautnah zu erleben. Hier konnen Besucher das heilende Klima der Nordsee geniesen, entspannen und die unendliche Weite des Meeres auf sich wirken lassen. Die Plattform ist Teil des Thalasso-Konzepts der Insel, das Gesundheit und Wohlbefinden mit der Natur verbindet - ein idealer Platz, um Korper und Geist zu starken.",
+    "description":"Die Thalasso-Plattform am Nordstrand von Norderney ist ein einzigartiger Ort, um die Kraft des Meeres hautnah zu erleben. Hier können Besucher das heilende Klima der Nordsee genießen, entspannen und die unendliche Weite des Meeres auf sich wirken lassen. Die Plattform ist Teil des Thalasso-Konzepts der Insel, das Gesundheit und Wohlbefinden mit der Natur verbindet – ein idealer Platz, um Körper und Geist zu stärken.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b36aff28f7d1f96f925_Norderney-Thalasso-Nordstrand.jpg",
-    "address":"Emsstrase 14, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "address":"Emsstraße 14, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":61,
@@ -229,18 +229,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.169699,53.7105238 ]
+       "coordinates":  [ 53.7105238,7.169699 ]
     },
     "properties": {
     "id":7,
     "name":"Bahnhof Stelldichein",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Der Bahnhof Stelldichein auf Norderney ist ein historisches Relikt aus der Zeit, als Pferdebahnen die Insel durchquerten. Ursprunglich als Wartehauschen fur Fahrgaste errichtet, dient das charmante Gebaude heute als nostalgisches Denkmal. Es erinnert an die Anfange des Tourismus auf Norderney und ist ein beliebter Halt fur Spazierganger, die die historische Atmosphare der Insel erleben mochten.",
+    "description":"Der Bahnhof Stelldichein auf Norderney ist ein historisches Relikt aus der Zeit, als Pferdebahnen die Insel durchquerten. Ursprünglich als Wartehäuschen für Fahrgäste errichtet, dient das charmante Gebäude heute als nostalgisches Denkmal. Es erinnert an die Anfänge des Tourismus auf Norderney und ist ein beliebter Halt für Spaziergänger, die die historische Atmosphäre der Insel erleben möchten.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b3780af505a114465d3_Norderney_Bahnhof_Stelldichein.jpg",
     "address":"Birkenweg 6, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":196,
@@ -261,18 +261,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.183749753157490,53.70915512475620 ]
+       "coordinates":  [ 53.70915512475620,7.183749753157490 ]
     },
     "properties": {
     "id":8,
     "name":"Thalassoplattform am alten Postweg",
     "category":"inselhighlights",
     "subcategory":"aussichtspunkte",
-    "description":"Die Thalasso-Plattform am Alten Postweg ist ein idyllischer Ruckzugsort mitten in der Natur von Norderney. Umgeben von Dunen und Ruhe, bietet sie die perfekte Gelegenheit, die wohltuende Seeluft tief einzuatmen und das einzigartige Thalasso-Klima zu geniesen. Mit Blick auf die unberuhrte Landschaft ladt die Plattform zum Entspannen und Verweilen ein - ein idealer Ort fur Erholung und Achtsamkeit inmitten der Inselnatur.",
+    "description":"Die Thalasso-Plattform am Alten Postweg ist ein idyllischer Rückzugsort mitten in der Natur von Norderney. Umgeben von Dünen und Ruhe, bietet sie die perfekte Gelegenheit, die wohltuende Seeluft tief einzuatmen und das einzigartige Thalasso-Klima zu genießen. Mit Blick auf die unberührte Landschaft lädt die Plattform zum Entspannen und Verweilen ein – ein idealer Ort für Erholung und Achtsamkeit inmitten der Inselnatur.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793e802abe17199c086e136_Postweg.jpeg",
     "address":"Am Alten Postweg, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":107,
@@ -293,18 +293,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.202837436552360,53.71377649992330 ]
+       "coordinates":  [ 53.71377649992330,7.202837436552360 ]
     },
     "properties": {
     "id":9,
-    "name":"Thalassoplattform am Dunensender",
+    "name":"Thalassoplattform am Dünensender",
     "category":"inselhighlights",
     "subcategory":"aussichtspunkte",
-    "description":"Die Thalasso-Plattform am Dunensender bietet eine atemberaubende Aussicht auf die Dunenlandschaft Norderneys und die Weite der Nordsee. Hier konnen Besucher die Ruhe der Natur geniesen, die frische, salzhaltige Luft inhalieren und die heilende Wirkung des Thalasso-Klimas erleben. Die Plattform ladt dazu ein, innezuhalten, die Umgebung auf sich wirken zu lassen und die Verbindung zwischen Mensch und Natur zu spuren.",
+    "description":"Die Thalasso-Plattform am Dünensender bietet eine atemberaubende Aussicht auf die Dünenlandschaft Norderneys und die Weite der Nordsee. Hier können Besucher die Ruhe der Natur genießen, die frische, salzhaltige Luft inhalieren und die heilende Wirkung des Thalasso-Klimas erleben. Die Plattform lädt dazu ein, innezuhalten, die Umgebung auf sich wirken zu lassen und die Verbindung zwischen Mensch und Natur zu spüren.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793e80106f58cd3068d91ca_Dunensender.jpg",
-    "address":"Am Dunensender, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793e80106f58cd3068d91ca_Dünensender.jpg",
+    "address":"Am Dünensender, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":368,
@@ -325,18 +325,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1996916,53.7167415 ]
+       "coordinates":  [ 53.7167415,7.1996916 ]
     },
     "properties": {
     "id":10,
-    "name":"Weisse Dune Strand Norderney",
+    "name":"Weisse Düne Strand Norderney",
     "category":"inselhighlights",
     "subcategory":"straende",
-    "description":"Der Strand Weise Dune auf Norderney ist ein echtes Naturparadies mit feinem, weisen Sand und unberuhrter Dunenlandschaft. Dieser ruhige Abschnitt der Insel bietet die perfekte Kulisse fur entspannte Strandtage, lange Spaziergange und erholsame Stunden inmitten der Nordsee-Natur. Das nahegelegene Restaurant \"Weise Dune\" rundet das Erlebnis mit kulinarischen Kostlichkeiten und einem unvergleichlichen Blick auf die Dunen ab - ein Highlight fur alle Sinne!",
+    "description":"Der Strand Weiße Düne auf Norderney ist ein echtes Naturparadies mit feinem, weißen Sand und unberührter Dünenlandschaft. Dieser ruhige Abschnitt der Insel bietet die perfekte Kulisse für entspannte Strandtage, lange Spaziergänge und erholsame Stunden inmitten der Nordsee-Natur. Das nahegelegene Restaurant „Weiße Düne“ rundet das Erlebnis mit kulinarischen Köstlichkeiten und einem unvergleichlichen Blick auf die Dünen ab – ein Highlight für alle Sinne!",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b37174c45168510e4fa_Norderney_WeisseD%C3%BCne.webp",
-    "address":"Weise Dune, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "address":"Weiße Düne, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":494,
@@ -357,18 +357,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.2299707,53.7099675 ]
+       "coordinates":  [ 53.7099675,7.2299707 ]
     },
     "properties": {
     "id":11,
     "name":"Leuchtturm Norderney",
     "category":"inselhighlights",
     "subcategory":"sehenswuerdigkeiten",
-    "description":"Der Leuchtturm Norderney ist eines der bekanntesten Wahrzeichen der Insel und ein beeindruckendes Stuck maritimer Geschichte. Mit seiner Hohe von 54 Metern bietet er einen atemberaubenden Panoramablick uber die Nordsee, die Insel und das umliegende Wattenmeer. 1874 erbaut, diente er uber ein Jahrhundert lang als Orientierungspunkt fur die Schifffahrt. Heute ist der Leuchtturm ein beliebtes Ausflugsziel und ein Muss fur alle, die Norderney von oben erleben mochten.",
+    "description":"Der Leuchtturm Norderney ist eines der bekanntesten Wahrzeichen der Insel und ein beeindruckendes Stück maritimer Geschichte. Mit seiner Höhe von 54 Metern bietet er einen atemberaubenden Panoramablick über die Nordsee, die Insel und das umliegende Wattenmeer. 1874 erbaut, diente er über ein Jahrhundert lang als Orientierungspunkt für die Schifffahrt. Heute ist der Leuchtturm ein beliebtes Ausflugsziel und ein Muss für alle, die Norderney von oben erleben möchten.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a03c36107a2fb5ae68e9_Norderneyer-Leuchtturm.jpg",
     "address":"Am Leuchtturm 2, 26548 Norderney",
-    "opening hours":"taglich, 14:00 - 16:00",
+    "opening hours":"täglich, 14:00 - 16:00",
     "tags":"",
     "features":"",
     "comments":3098,
@@ -389,18 +389,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.3019713,53.7165876 ]
+       "coordinates":  [ 53.7165876,7.3019713 ]
     },
     "properties": {
     "id":12,
-    "name":"\"Mowendune\"",
+    "name":"\"Möwendüne\"",
     "category":"inselhighlights",
     "subcategory":"aussichtspunkte",
-    "description":"Die \"Mowendune\" auf Norderney ist ein malerischer Naturplatz, der durch seine ruhige Lage und beeindruckende Dunenlandschaft besticht. Dieser Ort ist ideal, um die heimische Tierwelt, insbesondere die namensgebenden Mowen, zu beobachten und die unberuhrte Schonheit der Insel zu geniesen. Ob fur eine kleine Wanderung oder einen Moment der Stille - die Mowendune ist ein perfekter Ruckzugsort mitten in der Natur Norderneys.",
+    "description":"Die „Möwendüne“ auf Norderney ist ein malerischer Naturplatz, der durch seine ruhige Lage und beeindruckende Dünenlandschaft besticht. Dieser Ort ist ideal, um die heimische Tierwelt, insbesondere die namensgebenden Möwen, zu beobachten und die unberührte Schönheit der Insel zu genießen. Ob für eine kleine Wanderung oder einen Moment der Stille – die Möwendüne ist ein perfekter Rückzugsort mitten in der Natur Norderneys.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793e801e865c374d25bc2c4_mowendune.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793e801e865c374d25bc2c4_möwendüne.jpg",
     "address":"26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":80,
@@ -421,18 +421,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.345751388072430,53.71940966740350 ]
+       "coordinates":  [ 53.71940966740350,7.345751388072430 ]
     },
     "properties": {
     "id":13,
     "name":"Wrack am Ostende",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Das Wrack am Ostende von Norderney ist ein faszinierendes Relikt, das von der Geschichte der Schifffahrt und den Herausforderungen der Nordsee erzahlt. Vermutlich handelt es sich um die Uberreste der \"Pallas\", einem Frachtschiff, das 1930 vor der Insel strandete. Eingebettet in die Dunen und nur bei Ebbe zuganglich, ist das Wrack ein beliebtes Ziel fur Wattwanderer und Fotografen. Wind, Wetter und Meer haben die Uberreste stark gezeichnet, wodurch sie eine besondere, mystische Ausstrahlung erhalten. Das Wrack steht sinnbildlich fur die Gefahren der Seefahrt und die Kraft der Natur, die das Leben auf der Insel seit jeher pragen.",
+    "description":"Das Wrack am Ostende von Norderney ist ein faszinierendes Relikt, das von der Geschichte der Schifffahrt und den Herausforderungen der Nordsee erzählt. Vermutlich handelt es sich um die Überreste der „Pallas“, einem Frachtschiff, das 1930 vor der Insel strandete. Eingebettet in die Dünen und nur bei Ebbe zugänglich, ist das Wrack ein beliebtes Ziel für Wattwanderer und Fotografen. Wind, Wetter und Meer haben die Überreste stark gezeichnet, wodurch sie eine besondere, mystische Ausstrahlung erhalten. Das Wrack steht sinnbildlich für die Gefahren der Seefahrt und die Kraft der Natur, die das Leben auf der Insel seit jeher prägen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b371def67972a833a0f_Wrack.webp",
     "address":"26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":641,
@@ -453,14 +453,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1439433097839300,53.70206832885740 ]
+       "coordinates":  [ 53.70206832885740,7.1439433097839300 ]
     },
     "properties": {
     "id":14,
     "name":"Bademuseum Norderney",
     "category":"inselhighlights",
     "subcategory":"museen",
-    "description":"Das Museum Nordseeheilbad Norderney, auch als Bademuseum bekannt, entfuhrt Besucher in die spannende Geschichte des Seebads und der Badekultur. Gelegen in einem historischen Gebaude, zeigt die Ausstellung, wie sich Norderney vom Fischerdorf zum ersten deutschen Nordseeheilbad entwickelte. Originale Exponate, historische Fotografien und interaktive Stationen beleuchten die Anfange des Badelebens, die Rolle der Insel in der Heilmedizin und das mondane Leben der damaligen Gaste. Das Museum ist ein kulturelles Highlight fur alle, die mehr uber die traditionsreiche Geschichte Norderneys erfahren mochten.",
+    "description":"Das Museum Nordseeheilbad Norderney, auch als Bademuseum bekannt, entführt Besucher in die spannende Geschichte des Seebads und der Badekultur. Gelegen in einem historischen Gebäude, zeigt die Ausstellung, wie sich Norderney vom Fischerdorf zum ersten deutschen Nordseeheilbad entwickelte. Originale Exponate, historische Fotografien und interaktive Stationen beleuchten die Anfänge des Badelebens, die Rolle der Insel in der Heilmedizin und das mondäne Leben der damaligen Gäste. Das Museum ist ein kulturelles Highlight für alle, die mehr über die traditionsreiche Geschichte Norderneys erfahren möchten.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67937495e22f1579fcef64d2_bademuseum_norderney_2.jpg",
     "address":"Poppe-Folkerts-Weg 3b, 26548 Norderney",
@@ -485,17 +485,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1441855,53.7033856 ]
+       "coordinates":  [ 53.7033856,7.1441855 ]
     },
     "properties": {
     "id":15,
     "name":"Fischerhaus-Museum",
     "category":"inselhighlights",
     "subcategory":"museen",
-    "description":"Das Fischerhaus-Museum auf Norderney ist das alteste erhaltene Wohnhaus der Insel und ein einzigartiges Zeugnis der Lebensweise fruherer Insulaner. Erbaut im 18. Jahrhundert, beherbergt das liebevoll restaurierte Gebaude eine Ausstellung zur Geschichte der Fischerei, des Insellebens und der Seefahrt. Besucher konnen originale Einrichtungsgegenstande, Werkzeuge und historische Dokumente entdecken, die einen lebendigen Einblick in das harte Leben der Fischerfamilien geben. Das Fischerhaus-Museum ist ein besonderer Ort, der die Ursprunge und Traditionen der Insel Norderney eindrucksvoll bewahrt.",
+    "description":"Das Fischerhaus-Museum auf Norderney ist das älteste erhaltene Wohnhaus der Insel und ein einzigartiges Zeugnis der Lebensweise früherer Insulaner. Erbaut im 18. Jahrhundert, beherbergt das liebevoll restaurierte Gebäude eine Ausstellung zur Geschichte der Fischerei, des Insellebens und der Seefahrt. Besucher können originale Einrichtungsgegenstände, Werkzeuge und historische Dokumente entdecken, die einen lebendigen Einblick in das harte Leben der Fischerfamilien geben. Das Fischerhaus-Museum ist ein besonderer Ort, der die Ursprünge und Traditionen der Insel Norderney eindrucksvoll bewahrt.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679374932a3f24a10d1f1819_Fischerhaus-Museum.webp",
-    "address":"Weststrandstrase 1, 26548 Norderney",
+    "address":"Weststrandstraße 1, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -517,14 +517,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1484011,53.7089238 ]
+       "coordinates":  [ 53.7089238,7.1484011 ]
     },
     "properties": {
     "id":16,
     "name":"Poppe-Folkerts-Museum",
     "category":"inselhighlights",
     "subcategory":"museen",
-    "description":"Die Fordergemeinschaft Poppe-Folkerts-Museum Norderney e.V. setzt sich fur die Bewahrung und Prasentation des Werks von Poppe Folkerts, einem der bedeutendsten Kunstler der Insel, ein. Folkerts war fur seine maritimen Gemalde bekannt, die die raue Schonheit der Nordsee und die Landschaft Norderneys eindrucksvoll einfangen. Die Fordergemeinschaft unterstutzt Ausstellungen, pflegt das kunstlerische Erbe und bietet Interessierten einen Einblick in das Leben und Schaffen dieses ausergewohnlichen Malers. Das Museum ist ein kultureller Schatz fur Kunstliebhaber und ein besonderer Anziehungspunkt auf Norderney.",
+    "description":"Die Fördergemeinschaft Poppe-Folkerts-Museum Norderney e.V. setzt sich für die Bewahrung und Präsentation des Werks von Poppe Folkerts, einem der bedeutendsten Künstler der Insel, ein. Folkerts war für seine maritimen Gemälde bekannt, die die raue Schönheit der Nordsee und die Landschaft Norderneys eindrucksvoll einfangen. Die Fördergemeinschaft unterstützt Ausstellungen, pflegt das künstlerische Erbe und bietet Interessierten einen Einblick in das Leben und Schaffen dieses außergewöhnlichen Malers. Das Museum ist ein kultureller Schatz für Kunstliebhaber und ein besonderer Anziehungspunkt auf Norderney.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/678f5b3793795981b30e32ea_Norderney_Poppe.jpg",
     "address":"Luciusstr. 24, 26548 Norderney",
@@ -549,18 +549,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
+       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
     },
     "properties": {
     "id":17,
     "name":"Spielpark Kap Hoorn",
     "category":"freizeit",
     "subcategory":"indoor",
-    "description":"Auch bei schlechtem Wetter kommt im Spielpark keine Langeweile auf. Der Innenbereich bietet wetterunabhangige Spielmoglichkeiten wie eine Indoor-Kletteranlage, kreative Spielecken und einen Cafebereich, in dem Eltern bei einer Tasse Kaffee entspannen konnen. Hier steht alles bereit, um Kindern eine spannende Zeit zu bieten - unabhangig von der Witterung.",
+    "description":"Auch bei schlechtem Wetter kommt im Spielpark keine Langeweile auf. Der Innenbereich bietet wetterunabhängige Spielmöglichkeiten wie eine Indoor-Kletteranlage, kreative Spielecken und einen Cafébereich, in dem Eltern bei einer Tasse Kaffee entspannen können. Hier steht alles bereit, um Kindern eine spannende Zeit zu bieten – unabhängig von der Witterung.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a0b41f3083c3412c1a9f_norderney-spielpark-indoor.jpg",
-    "address":"Muhlenstrase 20, 26548 Norderney",
-    "opening hours":"taglich, 10:00 - 18:00 Uhr",
+    "address":"Mühlenstraße 20, 26548 Norderney",
+    "opening hours":"täglich, 10:00 - 18:00 Uhr",
     "tags":"",
     "features":"",
     "comments":null,
@@ -581,14 +581,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.164587508163760,53.70732733403140 ]
+       "coordinates":  [ 53.70732733403140,7.164587508163760 ]
     },
     "properties": {
     "id":18,
     "name":"Wattwanderungen ",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Die Wattwanderungen auf Norderney bieten ein einmaliges Naturerlebnis im UNESCO-Weltnaturerbe Wattenmeer. Unter der Fuhrung erfahrener Wattfuhrer entdecken Besucher die faszinierende Welt zwischen Ebbe und Flut. Dabei lernen sie spannende Fakten uber die einzigartigen Lebensraume, Tiere wie Wattwurmer, Krebse und Vogel sowie die Bedeutung des Watts fur die Nordsee. Ob Familien, Paare oder Alleinreisende - eine Wattwanderung ist ein besonderes Abenteuer, das Nahe zur Natur und unvergessliche Eindrucke garantiert. Fur alle Touren sind wetterfeste Kleidung und festes Schuhwerk empfohlen!",
+    "description":"Die Wattwanderungen auf Norderney bieten ein einmaliges Naturerlebnis im UNESCO-Weltnaturerbe Wattenmeer. Unter der Führung erfahrener Wattführer entdecken Besucher die faszinierende Welt zwischen Ebbe und Flut. Dabei lernen sie spannende Fakten über die einzigartigen Lebensräume, Tiere wie Wattwürmer, Krebse und Vögel sowie die Bedeutung des Watts für die Nordsee. Ob Familien, Paare oder Alleinreisende – eine Wattwanderung ist ein besonderes Abenteuer, das Nähe zur Natur und unvergessliche Eindrücke garantiert. Für alle Touren sind wetterfeste Kleidung und festes Schuhwerk empfohlen!",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67939f71408edb8b22c81696_watt-wanderung.webp",
     "address":"Am Hafen 2, 26548 Norderney",
@@ -613,14 +613,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1686945,53.7027975 ]
+       "coordinates":  [ 53.7027975,7.1686945 ]
     },
     "properties": {
     "id":19,
     "name":"Surfschule Norderney",
     "category":"freizeit",
     "subcategory":"wassersport",
-    "description":"Die Surfschule Norderney ist die perfekte Anlaufstelle fur Wassersportfans, egal ob Anfanger oder Fortgeschrittene. Hier konnen Sie Windsurfen, Kitesurfen, Wellenreiten, Stand-Up-Paddling und Kajakfahren erlernen oder Ihre Fahigkeiten ausbauen. Die Schule bietet eine breite Auswahl an Kursen, von Schnupperstunden bis hin zu intensiven Trainings, sowie professionelles Equipment zum Verleih. Mit erfahrenen Lehrern und der einzigartigen Kulisse der Nordsee wird jeder Tag auf dem Wasser zu einem besonderen Erlebnis. Ein Muss fur alle, die Action und Spas auf Norderney suchen!",
+    "description":"Die Surfschule Norderney ist die perfekte Anlaufstelle für Wassersportfans, egal ob Anfänger oder Fortgeschrittene. Hier können Sie Windsurfen, Kitesurfen, Wellenreiten, Stand-Up-Paddling und Kajakfahren erlernen oder Ihre Fähigkeiten ausbauen. Die Schule bietet eine breite Auswahl an Kursen, von Schnupperstunden bis hin zu intensiven Trainings, sowie professionelles Equipment zum Verleih. Mit erfahrenen Lehrern und der einzigartigen Kulisse der Nordsee wird jeder Tag auf dem Wasser zu einem besonderen Erlebnis. Ein Muss für alle, die Action und Spaß auf Norderney suchen!",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67939f71a5aab48fe94e6e83_Surfer.jpg",
     "address":"Am Hafen 17 · 26548 Norderney",
@@ -645,18 +645,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
+       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
     },
     "properties": {
     "id":20,
     "name":"Spielpark Kap Hoorn",
     "category":"freizeit",
     "subcategory":"outdoor_aktivitaeten",
-    "description":"Der weitlaufige Ausenbereich des Spielparks Kap Hoorn bietet zahlreiche Moglichkeiten zum Toben und Entdecken. Kinder konnen sich auf Klettergerusten, Schaukeln und im Wasserspielbereich austoben, wahrend Eltern auf den gemutlichen Sitzplatzen entspannen. Die naturliche Umgebung und die groszugige Gestaltung machen den Ausenbereich zu einem perfekten Ort fur Abenteuer und Spielspas.",
+    "description":"Der weitläufige Außenbereich des Spielparks Kap Hoorn bietet zahlreiche Möglichkeiten zum Toben und Entdecken. Kinder können sich auf Klettergerüsten, Schaukeln und im Wasserspielbereich austoben, während Eltern auf den gemütlichen Sitzplätzen entspannen. Die natürliche Umgebung und die großzügige Gestaltung machen den Außenbereich zu einem perfekten Ort für Abenteuer und Spielspaß.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a0b5b0a71c1b3b50a582_norderney-spielpark-outdoor.jpg",
-    "address":"Muhlenstrase 20, 26548 Norderney",
-    "opening hours":"Rund um die Uhr geoffnet",
+    "address":"Mühlenstraße 20, 26548 Norderney",
+    "opening hours":"Rund um die Uhr geöffnet",
     "tags":"",
     "features":"",
     "comments":null,
@@ -677,14 +677,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.144089581510600,53.70434906864360 ]
+       "coordinates":  [ 53.70434906864360,7.144089581510600 ]
     },
     "properties": {
     "id":21,
     "name":"bade:haus norderney",
     "category":"freizeit",
     "subcategory":"wellness_spa",
-    "description":"Das bade:haus Norderney ist Europas grostes Thalasso-Zentrum und ein Ort der Entspannung und Erholung. In moderner Architektur vereint es traditionelle Heilmethoden mit innovativen Wellness-Angeboten. Besucher konnen in Meerwasserpools entspannen, die heilende Wirkung der Thalasso-Anwendungen geniesen oder in der groszugigen Saunalandschaft mit Panoramablick uber die Nordsee zur Ruhe kommen. Ob Solebader, Massagen oder der einzigartige Dunenbereich - das bade:haus bietet ein unvergessliches Wohlfuhlerlebnis und ist ein Muss fur alle, die Korper und Geist verwohnen mochten.",
+    "description":"Das bade:haus Norderney ist Europas größtes Thalasso-Zentrum und ein Ort der Entspannung und Erholung. In moderner Architektur vereint es traditionelle Heilmethoden mit innovativen Wellness-Angeboten. Besucher können in Meerwasserpools entspannen, die heilende Wirkung der Thalasso-Anwendungen genießen oder in der großzügigen Saunalandschaft mit Panoramablick über die Nordsee zur Ruhe kommen. Ob Solebäder, Massagen oder der einzigartige Dünenbereich – das bade:haus bietet ein unvergessliches Wohlfühlerlebnis und ist ein Muss für alle, die Körper und Geist verwöhnen möchten.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a1b465f8bde9bced660a_badehaus.jpg",
     "address":"Am Kurplatz 1, 26548 Norderney",
@@ -709,18 +709,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.147004596527130,53.70484497217800 ]
+       "coordinates":  [ 53.70484497217800,7.147004596527130 ]
     },
     "properties": {
     "id":22,
-    "name":"Inseltour Bommelbahnen",
+    "name":"Inseltour Bömmelbahnen",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Die Inseltour mit den Bommelbahnen auf Norderney ist eine entspannte und charmante Moglichkeit, die schonsten Seiten der Insel zu entdecken. In den nostalgischen Bahnen geniesen Gaste eine gemutliche Fahrt durch Dunenlandschaften, vorbei an historischen Orten und entlang beeindruckender Aussichtspunkte. Wahrend der Tour erfahren Besucher interessante Geschichten und spannende Fakten uber Norderneys Natur, Kultur und Geschichte. Eine Fahrt mit den Bommelbahnen ist ein unvergessliches Erlebnis fur die ganze Familie und ein Highlight fur Inselentdecker!",
+    "description":"Die Inseltour mit den Bömmelbahnen auf Norderney ist eine entspannte und charmante Möglichkeit, die schönsten Seiten der Insel zu entdecken. In den nostalgischen Bahnen genießen Gäste eine gemütliche Fahrt durch Dünenlandschaften, vorbei an historischen Orten und entlang beeindruckender Aussichtspunkte. Während der Tour erfahren Besucher interessante Geschichten und spannende Fakten über Norderneys Natur, Kultur und Geschichte. Eine Fahrt mit den Bömmelbahnen ist ein unvergessliches Erlebnis für die ganze Familie und ein Highlight für Inselentdecker!",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67937494099eef75f489a0f4_Inseltour.jpg",
     "address":"Rosengarten, 26548 Norderney",
-    "opening hours":"taglich, 11:00 -15:00",
+    "opening hours":"täglich, 11:00 -15:00",
     "tags":"",
     "features":"",
     "comments":682,
@@ -741,14 +741,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.148982465702410,53.70398644458400 ]
+       "coordinates":  [ 53.70398644458400,7.148982465702410 ]
     },
     "properties": {
     "id":23,
     "name":"Kino im Kurtheater",
     "category":"freizeit",
     "subcategory":"indoor",
-    "description":"Das historische Kurtheater auf Norderney verbindet nostalgisches Ambiente mit modernem Kinogenuss. Im Herzen der Insel gelegen, begeistert es Filmfans mit einem ausgewahlten Programm aus aktuellen Blockbustern, anspruchsvollen Arthouse-Filmen und beliebten Klassikern. Die charmante Atmosphare des Saals, die bequemen Sitzmoglichkeiten und die moderne Technik machen jeden Kinobesuch zu einem besonderen Erlebnis. Ob fur einen entspannten Abend oder als Schlechtwetter-Alternative - das Kino im Kurtheater bietet Unterhaltung fur alle Altersgruppen. Auch regelmasige Events wie Filmabende und Premieren machen das Kurtheater zu einem kulturellen Highlight der Insel.",
+    "description":"Das historische Kurtheater auf Norderney verbindet nostalgisches Ambiente mit modernem Kinogenuss. Im Herzen der Insel gelegen, begeistert es Filmfans mit einem ausgewählten Programm aus aktuellen Blockbustern, anspruchsvollen Arthouse-Filmen und beliebten Klassikern. Die charmante Atmosphäre des Saals, die bequemen Sitzmöglichkeiten und die moderne Technik machen jeden Kinobesuch zu einem besonderen Erlebnis. Ob für einen entspannten Abend oder als Schlechtwetter-Alternative – das Kino im Kurtheater bietet Unterhaltung für alle Altersgruppen. Auch regelmäßige Events wie Filmabende und Premieren machen das Kurtheater zu einem kulturellen Highlight der Insel.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca8f3f6dad7d97f42d8_kurtheater.jpg",
     "address":"",
@@ -773,18 +773,18 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.145669,53.7045356 ]
+       "coordinates":  [ 53.7045356,7.145669 ]
     },
     "properties": {
     "id":24,
-    "name":"Conversationshaus ",
+    "name":"Conversationshaus ",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Der Leseraum im Conversationshaus auf Norderney ist ein Ort der Ruhe und Entspannung, ideal fur Literaturfreunde und Erholungssuchende. In stilvollem Ambiente konnen Gaste in Buchern und Zeitschriften schmokern oder einfach die historische Atmosphare des prachtvollen Gebaudes geniesen. Der Leseraum ist nicht nur ein Ruckzugsort, sondern auch ein Stuck Geschichte, das an die kulturelle Bedeutung des Conversationshauses als gesellschaftlichen Mittelpunkt der Insel erinnert. Ein perfekter Ort fur eine Auszeit vom Trubel der Insel.",
+    "description":"Der Leseraum im Conversationshaus auf Norderney ist ein Ort der Ruhe und Entspannung, ideal für Literaturfreunde und Erholungssuchende. In stilvollem Ambiente können Gäste in Büchern und Zeitschriften schmökern oder einfach die historische Atmosphäre des prachtvollen Gebäudes genießen. Der Leseraum ist nicht nur ein Rückzugsort, sondern auch ein Stück Geschichte, das an die kulturelle Bedeutung des Conversationshauses als gesellschaftlichen Mittelpunkt der Insel erinnert. Ein perfekter Ort für eine Auszeit vom Trubel der Insel.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793746d93ec770a25908b7d_Conversationshaus.jpg",
     "address":"Am Kurplatz 1, 26548 Norderney",
-    "opening hours":"taglich, 10:00 - 17:00 Uhr",
+    "opening hours":"täglich, 10:00 - 17:00 Uhr",
     "tags":"",
     "features":"",
     "comments":null,
@@ -805,17 +805,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1484993,53.7035017 ]
+       "coordinates":  [ 53.7035017,7.1484993 ]
     },
     "properties": {
     "id":25,
     "name":"Frieseneis",
     "category":"essen",
     "subcategory":"eisdielen",
-    "description":"Frieseneis ist die erste Adresse auf Norderney fur alle Eisliebhaber, die Wert auf handgemachte Qualitat legen. Hier werden mit viel Liebe zum Detail cremige Eissorten und erfrischende Sorbets aus regionalen Zutaten hergestellt. Neben den klassischen Geschmacksrichtungen uberrascht Frieseneis immer wieder mit kreativen neuen Sorten. Ob im Becher oder in der Waffel - ein Besuch bei Frieseneis ist ein Muss fur alle, die das Besondere suchen.",
+    "description":"Frieseneis ist die erste Adresse auf Norderney für alle Eisliebhaber, die Wert auf handgemachte Qualität legen. Hier werden mit viel Liebe zum Detail cremige Eissorten und erfrischende Sorbets aus regionalen Zutaten hergestellt. Neben den klassischen Geschmacksrichtungen überrascht Frieseneis immer wieder mit kreativen neuen Sorten. Ob im Becher oder in der Waffel – ein Besuch bei Frieseneis ist ein Muss für alle, die das Besondere suchen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a1b41ddb054f5ebe79c9_Frieseneins.jpg",
-    "address":"Bulowallee 7, 26548 Norderney",
+    "address":"Bülowallee 7, 26548 Norderney",
     "opening hours":"11:00 - 18:00, montags geschlossen",
     "tags":"",
     "features":"",
@@ -837,14 +837,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.145669,53.7045356 ]
+       "coordinates":  [ 53.7045356,7.145669 ]
     },
     "properties": {
     "id":26,
     "name":"Kurpalais",
     "category":"essen",
     "subcategory":"cafes",
-    "description":"Das Kurpalais Norderney ist ein architektonisches Schmuckstuck und ein Zeugnis der prachtvollen Baderarchitektur der Insel. Im Herzen von Norderney gelegen, diente das historische Gebaude einst als gesellschaftlicher Treffpunkt fur Kurgaste und Badeurlauber. Heute beeindruckt das Kurpalais mit seinem stilvollen Ambiente und wird fur kulturelle Veranstaltungen, Konzerte und besondere Events genutzt. Ein Besuch verbindet eindrucksvoll Geschichte, Kultur und das Flair vergangener Zeiten mit modernem Charme.\nIn den kuhleren Monaten sorgt das Kaminzimmer oder die einladenden Sofas der Orangerie fur eine behagliche Atmosphare, in der man gerne verweilt.",
+    "description":"Das Kurpalais Norderney ist ein architektonisches Schmuckstück und ein Zeugnis der prachtvollen Bäderarchitektur der Insel. Im Herzen von Norderney gelegen, diente das historische Gebäude einst als gesellschaftlicher Treffpunkt für Kurgäste und Badeurlauber. Heute beeindruckt das Kurpalais mit seinem stilvollen Ambiente und wird für kulturelle Veranstaltungen, Konzerte und besondere Events genutzt. Ein Besuch verbindet eindrucksvoll Geschichte, Kultur und das Flair vergangener Zeiten mit modernem Charme.\nIn den kühleren Monaten sorgt das Kaminzimmer oder die einladenden Sofas der Orangerie für eine behagliche Atmosphäre, in der man gerne verweilt.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a1db04e46a3162081bae_Kurpalais.jpg",
     "address":"Am Kurplatz 1, 26548 Norderney",
@@ -869,16 +869,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1509768,53.7124844 ]
+       "coordinates":  [ 53.7124844,7.1509768 ]
     },
     "properties": {
     "id":27,
-    "name":"Surfcafe",
+    "name":"Surfcafé",
     "category":"essen ",
     "subcategory":"top5_cafes_bars",
-    "description":"Das Surfcafe Norderney ist eine der beliebtesten Locations der Insel und ein perfekter Ort, um den Tag mit einem Blick auf die Nordsee ausklingen zu lassen. Direkt am Strand gelegen, bietet es eine entspannte Atmosphare, kostliche Speisen und erfrischende Getranke. Von hausgemachten Kuchen uber frische Snacks bis hin zu exotischen Cocktails - das Surfcafe verbindet Strandfeeling mit kulinarischem Genuss. Besonders der Sonnenuntergang macht jeden Besuch zu einem unvergesslichen Erlebnis. Ein Must-Visit fur Genieser und Strandliebhaber!",
+    "description":"Das Surfcafé Norderney ist eine der beliebtesten Locations der Insel und ein perfekter Ort, um den Tag mit einem Blick auf die Nordsee ausklingen zu lassen. Direkt am Strand gelegen, bietet es eine entspannte Atmosphäre, köstliche Speisen und erfrischende Getränke. Von hausgemachten Kuchen über frische Snacks bis hin zu exotischen Cocktails – das Surfcafé verbindet Strandfeeling mit kulinarischem Genuss. Besonders der Sonnenuntergang macht jeden Besuch zu einem unvergesslichen Erlebnis. Ein Must-Visit für Genießer und Strandliebhaber!",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a222b0a71c1b3b524fc7_SurfcafeTerrasse.webp",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a222b0a71c1b3b524fc7_SurfcaféTerrasse.webp",
     "address":"Am Januskopf 9, 26548 Norderney",
     "opening hours":"09:00 - 23:00, Donnerstag Ruhetag",
     "tags":"",
@@ -901,14 +901,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1387478,53.7081771 ]
+       "coordinates":  [ 53.7081771,7.1387478 ]
     },
     "properties": {
     "id":28,
     "name":"Milchbar",
     "category":"essen ",
     "subcategory":"top5_cafes_bars",
-    "description":"Die Milchbar auf Norderney ist mehr als nur ein Cafe - sie ist ein ikonischer Treffpunkt mit unvergleichlichem Ausblick auf die Nordsee. Direkt an der Promenade gelegen, bietet sie den perfekten Ort, um bei einem Kaffee oder einem der beruhmten Milchshakes die Seele baumeln zu lassen. Besonders zur Abenddammerung zieht die Milchbar Besucher an, um den atemberaubenden Sonnenuntergang uber dem Meer zu geniesen. Mit ihrem modernen Design und der entspannten Atmosphare ist sie ein beliebter Ort fur Einheimische und Urlauber gleichermasen. Ein Besuch hier verspricht Genuss fur alle Sinne - ein echtes Highlight auf der Insel!",
+    "description":"Die Milchbar auf Norderney ist mehr als nur ein Café – sie ist ein ikonischer Treffpunkt mit unvergleichlichem Ausblick auf die Nordsee. Direkt an der Promenade gelegen, bietet sie den perfekten Ort, um bei einem Kaffee oder einem der berühmten Milchshakes die Seele baumeln zu lassen. Besonders zur Abenddämmerung zieht die Milchbar Besucher an, um den atemberaubenden Sonnenuntergang über dem Meer zu genießen. Mit ihrem modernen Design und der entspannten Atmosphäre ist sie ein beliebter Ort für Einheimische und Urlauber gleichermaßen. Ein Besuch hier verspricht Genuss für alle Sinne – ein echtes Highlight auf der Insel!",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/67993cc4f22c56cca5a7aca1_Milchbar.jpg",
     "address":"Damenpfad 33, 226548 Norderney",
@@ -933,14 +933,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.147142321046400,53.709927333604200 ]
+       "coordinates":  [ 53.709927333604200,7.147142321046400 ]
     },
     "properties": {
     "id":29,
     "name":"Fischgeniesserei Norderney",
     "category":"essen ",
     "subcategory":"restaurants",
-    "description":"Die Fischgeniesserei Norderney ist ein Paradies fur Liebhaber von frischem Fisch und maritimen Kostlichkeiten. Mit einer Leidenschaft fur Qualitat und regionalen Genuss werden hier fangfrische Spezialitaten aus der Nordsee serviert. Ob zarter Matjes, saftige Krabbenbrotchen oder kreativ zubereitete Fischgerichte - die Fischgeniesserei bietet fur jeden Geschmack das Passende. Das einladende Ambiente und der freundliche Service machen jeden Besuch zu einem kulinarischen Erlebnis. Ein Highlight ist die offene Kuche, in der die Gaste den Kochen bei der Zubereitung ihrer Speisen zuschauen konnen.",
+    "description":"Die Fischgeniesserei Norderney ist ein Paradies für Liebhaber von frischem Fisch und maritimen Köstlichkeiten. Mit einer Leidenschaft für Qualität und regionalen Genuss werden hier fangfrische Spezialitäten aus der Nordsee serviert. Ob zarter Matjes, saftige Krabbenbrötchen oder kreativ zubereitete Fischgerichte – die Fischgeniesserei bietet für jeden Geschmack das Passende. Das einladende Ambiente und der freundliche Service machen jeden Besuch zu einem kulinarischen Erlebnis. Ein Highlight ist die offene Küche, in der die Gäste den Köchen bei der Zubereitung ihrer Speisen zuschauen können.",
     "icon":"",
     "image":"",
     "address":"Knyphausenstr. 9 · 26548 Norderney",
@@ -952,7 +952,7 @@
     "price":"",
     "web":"https://www.fischgeniesserei.de/?fbclid=PAZXh0bgNhZW0CMTEAAaYR3FaS83mA4DoDs7emltbdgUQYusDL28crpXE_pi89-WV_SYc2PHVfyI8_aem_jdzbjizOVtDRtXcwyrkrUA",
     "menu":"",
-    "phone":" 01602654826",
+    "phone":" 01602654826",
     "facebook":"https://www.facebook.com/fischgeniesserei",
     "instagram":"https://www.instagram.com/fischgeniesserei/",
     "booking":"https://gastronaut.ai/reservations/fischgeniesserei-norderney?subdomain=reservation&fbclid=PAZXh0bgNhZW0CMTEAAaYPQaK2anb0R97Z50hPPlvv3d-YD1z2zxPOlwGhhgbIeUqxSrHNMhBmS-s_aem_WNvhPHEGAeYANkhNeJwTRA",
@@ -965,17 +965,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.144137382507320,53.7077751159668 ]
+       "coordinates":  [ 53.7077751159668,7.144137382507320 ]
     },
     "properties": {
     "id":30,
     "name":"Kaffeegeniesserei Norderney",
     "category":"essen ",
     "subcategory":"cafes",
-    "description":"Die Kaffeegeniesserei Norderney ist ein gemutlicher Geheimtipp fur alle Kaffeeliebhaber. Mit viel Liebe zum Detail werden hier erstklassige Kaffeespezialitaten serviert, die vor Ort frisch gerostet werden. Das charmante Ambiente ladt zum Verweilen ein, wahrend hausgemachte Kuchen und kleine Leckereien das Geschmackserlebnis abrunden. Ob ein entspannter Start in den Tag oder eine wohlverdiente Pause - die Kaffeegeniesserei ist ein Ort, der Genuss und Entschleunigung perfekt verbindet.",
+    "description":"Die Kaffeegeniesserei Norderney ist ein gemütlicher Geheimtipp für alle Kaffeeliebhaber. Mit viel Liebe zum Detail werden hier erstklassige Kaffeespezialitäten serviert, die vor Ort frisch geröstet werden. Das charmante Ambiente lädt zum Verweilen ein, während hausgemachte Kuchen und kleine Leckereien das Geschmackserlebnis abrunden. Ob ein entspannter Start in den Tag oder eine wohlverdiente Pause – die Kaffeegeniesserei ist ein Ort, der Genuss und Entschleunigung perfekt verbindet.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a270d0a352c6bfb2e800_Kaffeegeniesserei.jpg",
-    "address":"Schmiedestrase 16, 26548 Norderney",
+    "address":"Schmiedestraße 16, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -997,17 +997,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1414971351623500,53.70547866821280 ]
+       "coordinates":  [ 53.70547866821280,7.1414971351623500 ]
     },
     "properties": {
     "id":31,
-    "name":"BITTERSUSS Norderney",
+    "name":"BITTERSÜSS Norderney",
     "category":"essen ",
     "subcategory":"cafes",
-    "description":"Das BITTERSUSS Norderney ist eine charmante Mischung aus Cafe und Concept Store, die Genuss und Stil perfekt vereint. Hier konnen Besucher hochwertige Schokoladenkreationen, feine Pralinen und aromatische Kaffeespezialitaten geniesen. Neben den kulinarischen Kostlichkeiten bietet das BITTERSUSS eine sorgfaltig kuratierte Auswahl an Geschenkideen, Wohnaccessoires und Lifestyle-Produkten. Es ist der ideale Ort, um sich eine kleine Auszeit zu gonnen oder ein besonderes Andenken von Norderney mit nach Hause zu nehmen.",
+    "description":"Das BITTERSÜSS Norderney ist eine charmante Mischung aus Café und Concept Store, die Genuss und Stil perfekt vereint. Hier können Besucher hochwertige Schokoladenkreationen, feine Pralinen und aromatische Kaffeespezialitäten genießen. Neben den kulinarischen Köstlichkeiten bietet das BITTERSÜSS eine sorgfältig kuratierte Auswahl an Geschenkideen, Wohnaccessoires und Lifestyle-Produkten. Es ist der ideale Ort, um sich eine kleine Auszeit zu gönnen oder ein besonderes Andenken von Norderney mit nach Hause zu nehmen.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a2d58d84986f7e82270e_bittersuss.jpg",
-    "address":"Strandstrase 7, 26548 Norderney",
+    "address":"Strandstraße 7, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -1029,17 +1029,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.143214,53.7071327 ]
+       "coordinates":  [ 53.7071327,7.143214 ]
     },
     "properties": {
     "id":32,
-    "name":"Gran Cafe Veneziano",
+    "name":"Gran Café Veneziano",
     "category":"essen ",
     "subcategory":"eisdielen",
-    "description":"Das Gran Cafe Veneziano auf Norderney vereint italienische Lebensfreude mit kulinarischem Genuss. Direkt in der Innenstadt gelegen, lockt es mit hausgemachtem Eis, klassischen italienischen Spezialitaten und aromatischem Kaffee. Ob ein gemutlicher Nachmittag mit einem Eisbecher oder ein genussvolles Dinner mit Pizza und Pasta - hier erleben Gaste italienische Gastfreundschaft in einem modernen und stilvollen Ambiente. Ein Ort, der mediterranes Flair auf die Insel bringt und zum Verweilen einladt.",
+    "description":"Das Gran Café Veneziano auf Norderney vereint italienische Lebensfreude mit kulinarischem Genuss. Direkt in der Innenstadt gelegen, lockt es mit hausgemachtem Eis, klassischen italienischen Spezialitäten und aromatischem Kaffee. Ob ein gemütlicher Nachmittag mit einem Eisbecher oder ein genussvolles Dinner mit Pizza und Pasta – hier erleben Gäste italienische Gastfreundschaft in einem modernen und stilvollen Ambiente. Ein Ort, der mediterranes Flair auf die Insel bringt und zum Verweilen einlädt.",
     "icon":"",
     "image":"",
-    "address":"Poststrase 9, 26548 Norderney",
+    "address":"Poststraße 9, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -1061,17 +1061,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1441954,53.7084577 ]
+       "coordinates":  [ 53.7084577,7.1441954 ]
     },
     "properties": {
     "id":33,
     "name":"al Monumento",
     "category":"essen ",
     "subcategory":"restaurants",
-    "description":"Das Al Monumento auf Norderney ist eine beliebte Adresse fur Liebhaber italienischer Kuche. Mit Blick auf das Kaiser-Wilhelm-Denkmal geniesen Gaste hier authentische italienische Gerichte, von knuspriger Steinofenpizza uber frische Pasta bis hin zu mediterranen Fleisch- und Fischspezialitaten. Das stilvolle Ambiente und die herzliche Gastfreundschaft machen das Al Monumento zu einem perfekten Ort fur ein entspanntes Mittagessen oder ein romantisches Dinner. Ein Stuck Italien mitten auf Norderney!",
+    "description":"Das Al Monumento auf Norderney ist eine beliebte Adresse für Liebhaber italienischer Küche. Mit Blick auf das Kaiser-Wilhelm-Denkmal genießen Gäste hier authentische italienische Gerichte, von knuspriger Steinofenpizza über frische Pasta bis hin zu mediterranen Fleisch- und Fischspezialitäten. Das stilvolle Ambiente und die herzliche Gastfreundschaft machen das Al Monumento zu einem perfekten Ort für ein entspanntes Mittagessen oder ein romantisches Dinner. Ein Stück Italien mitten auf Norderney!",
     "icon":"",
     "image":"",
-    "address":"Friedrichstrase 21, 26548 Norderney",
+    "address":"Friedrichstraße 21, 26548 Norderney",
     "opening hours":"",
     "tags":"italienisch",
     "features":"",
@@ -1093,17 +1093,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.14284610748291,53.70646667480460 ]
+       "coordinates":  [ 53.70646667480460,7.14284610748291 ]
     },
     "properties": {
     "id":34,
     "name":"La Gondola",
     "category":"essen ",
     "subcategory":"restaurants",
-    "description":"Das La Gondola auf Norderney ist ein traditionsreiches italienisches Restaurant, das Gaste mit einer Vielzahl an mediterranen Kostlichkeiten verwohnt. Die Speisekarte reicht von knusprigen Pizzen und frischer Pasta bis hin zu raffinierten Fisch- und Fleischgerichten. In gemutlichem Ambiente und mit typisch italienischer Gastfreundschaft ladt das La Gondola zu entspannten Stunden ein - perfekt fur einen genussvollen Abend auf der Insel.",
+    "description":"Das La Gondola auf Norderney ist ein traditionsreiches italienisches Restaurant, das Gäste mit einer Vielzahl an mediterranen Köstlichkeiten verwöhnt. Die Speisekarte reicht von knusprigen Pizzen und frischer Pasta bis hin zu raffinierten Fisch- und Fleischgerichten. In gemütlichem Ambiente und mit typisch italienischer Gastfreundschaft lädt das La Gondola zu entspannten Stunden ein – perfekt für einen genussvollen Abend auf der Insel.",
     "icon":"",
     "image":"",
-    "address":"Langestrase 1, 26548 Norderney",
+    "address":"Langestraße 1, 26548 Norderney",
     "opening hours":"",
     "tags":"italienisch, zum Mitnehmen",
     "features":"",
@@ -1125,17 +1125,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1467814445495600,53.70693588256830 ]
+       "coordinates":  [ 53.70693588256830,7.1467814445495600 ]
     },
     "properties": {
     "id":35,
     "name":"Haifischbar",
     "category":"essen ",
     "subcategory":"bars",
-    "description":"Die Haifischbar auf Norderney ist eine kultige Location, die fur ihre entspannte Atmosphare und ihr maritimes Flair bekannt ist. Mit einer grosen Auswahl an Cocktails, Bier und kleinen Snacks ist sie der ideale Treffpunkt fur einen geselligen Abend. Oft gibt es Live-Musik oder andere Veranstaltungen, die den besonderen Charme der Bar ausmachen. Ob nach einem Strandtag oder zum Ausklang eines Inseltages - die Haifischbar ist ein Ort, an dem man das echte Norderney-Gefuhl erleben kann.",
+    "description":"Die Haifischbar auf Norderney ist eine kultige Location, die für ihre entspannte Atmosphäre und ihr maritimes Flair bekannt ist. Mit einer großen Auswahl an Cocktails, Bier und kleinen Snacks ist sie der ideale Treffpunkt für einen geselligen Abend. Oft gibt es Live-Musik oder andere Veranstaltungen, die den besonderen Charme der Bar ausmachen. Ob nach einem Strandtag oder zum Ausklang eines Inseltages – die Haifischbar ist ein Ort, an dem man das echte Norderney-Gefühl erleben kann.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a33211c5425bcd5b00e6_haifischbar.jpg",
-    "address":"Ostertrase 6 , 26548 Norderney",
+    "address":"Ostertraße 6 , 26548 Norderney",
     "opening hours":"18:00 - 02:00",
     "tags":"",
     "features":"",
@@ -1157,14 +1157,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.146080874379280,53.70574999900880 ]
+       "coordinates":  [ 53.70574999900880,7.146080874379280 ]
     },
     "properties": {
     "id":36,
     "name":"Atelier Art & Bar",
     "category":"essen ",
     "subcategory":"bars",
-    "description":"Die Atelier Art & Bar auf Norderney verbindet Kunst, Kultur und Genuss auf einzigartige Weise. In stilvollem Ambiente konnen Gaste kreative Kunstwerke bewundern, wahrend sie exzellente Cocktails, ausgewahlte Weine und kleine Kostlichkeiten geniesen. Regelmasige Kunstausstellungen, Lesungen und Musikveranstaltungen machen die Location zu einem Treffpunkt fur Kulturbegeisterte. Das Atelier Art & Bar ist ein besonderer Ort, der Kunst und Lebensfreude auf Norderney perfekt vereint.",
+    "description":"Die Atelier Art & Bar auf Norderney verbindet Kunst, Kultur und Genuss auf einzigartige Weise. In stilvollem Ambiente können Gäste kreative Kunstwerke bewundern, während sie exzellente Cocktails, ausgewählte Weine und kleine Köstlichkeiten genießen. Regelmäßige Kunstausstellungen, Lesungen und Musikveranstaltungen machen die Location zu einem Treffpunkt für Kulturbegeisterte. Das Atelier Art & Bar ist ein besonderer Ort, der Kunst und Lebensfreude auf Norderney perfekt vereint.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/6793a2d61af2782efc460c0f_atelier%20bar.jpg",
     "address":"Am Kurtheater 2, 26548 Norderney",
@@ -1189,14 +1189,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1420671,53.7009696 ]
+       "coordinates":  [ 53.7009696,7.1420671 ]
     },
     "properties": {
     "id":37,
     "name":"Weststrand",
     "category":"freizeit",
     "subcategory":"top5_straende",
-    "description":"Der Weststrand von Norderney ist ein idealer Ort fur Familien. Mit seiner Nahe zum Stadtzentrum bietet er einen leichten Zugang und verfugt uber Strandkorbe sowie sanitare Einrichtungen. Der flach abfallende Sandstrand macht ihn perfekt fur Kinder, wahrend Wassersportler die Wellen geniesen konnen. Hier lasst sich ein erholsamer Tag mit Blick auf den Sonnenuntergang ausklingen.",
+    "description":"Der Weststrand von Norderney ist ein idealer Ort für Familien. Mit seiner Nähe zum Stadtzentrum bietet er einen leichten Zugang und verfügt über Strandkörbe sowie sanitäre Einrichtungen. Der flach abfallende Sandstrand macht ihn perfekt für Kinder, während Wassersportler die Wellen genießen können. Hier lässt sich ein erholsamer Tag mit Blick auf den Sonnenuntergang ausklingen.",
     "icon":"",
     "image":"",
     "address":"",
@@ -1221,14 +1221,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1583436,53.7155271 ]
+       "coordinates":  [ 53.7155271,7.1583436 ]
     },
     "properties": {
     "id":38,
     "name":"Nordstrand",
     "category":"freizeit",
     "subcategory":"top5_straende",
-    "description":"Der Nordstrand von Norderney ist der groste Strand der Insel und ideal fur aktive Urlauber sowie Ruhesuchende. Er bietet viel Platz fur Spaziergange, Strandspiele und Sonnenbaden, wahrend Strandkorbe und gastronomische Angebote fur Komfort sorgen. Familien schatzen den flachen Zugang zum Wasser und die zahlreichen Freizeitmoglichkeiten. Auch Wassersportler finden hier optimale Bedingungen fur Aktivitaten wie Kitesurfen oder Windsurfen.",
+    "description":"Der Nordstrand von Norderney ist der größte Strand der Insel und ideal für aktive Urlauber sowie Ruhesuchende. Er bietet viel Platz für Spaziergänge, Strandspiele und Sonnenbaden, während Strandkörbe und gastronomische Angebote für Komfort sorgen. Familien schätzen den flachen Zugang zum Wasser und die zahlreichen Freizeitmöglichkeiten. Auch Wassersportler finden hier optimale Bedingungen für Aktivitäten wie Kitesurfen oder Windsurfen.",
     "icon":"",
     "image":"",
     "address":"",
@@ -1253,14 +1253,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.208630225336850,53.722991505513400 ]
+       "coordinates":  [ 53.722991505513400,7.208630225336850 ]
     },
     "properties": {
     "id":39,
-    "name":"Weise Dune",
+    "name":"Weiße Düne",
     "category":"freizeit",
     "subcategory":"top5_straende",
-    "description":"Der Strand Weise Dune ist ein malerischer Ort mit feinem, weisen Sand, der sowohl fur Familien mit Kindern als auch fur Erholungssuchende geeignet ist. Ein Spielplatz bietet den Kleinen Spas und Abwechslung, wahrend Strandkorbe fur entspanntes Verweilen sorgen. Ein charmantes Strandlokal ladt mit regionalen Spezialitaten und kuhlen Getranken zum Geniesen ein. Ideal fur ausgedehnte Spaziergange, entspanntes Sonnenbaden oder gemeinsame Stunden mit der Familie. Perfekt fur alle, die Ruhe und Komfort miteinander verbinden mochten.",
+    "description":"Der Strand Weiße Düne ist ein malerischer Ort mit feinem, weißen Sand, der sowohl für Familien mit Kindern als auch für Erholungssuchende geeignet ist. Ein Spielplatz bietet den Kleinen Spaß und Abwechslung, während Strandkörbe für entspanntes Verweilen sorgen. Ein charmantes Strandlokal lädt mit regionalen Spezialitäten und kühlen Getränken zum Genießen ein. Ideal für ausgedehnte Spaziergänge, entspanntes Sonnenbaden oder gemeinsame Stunden mit der Familie. Perfekt für alle, die Ruhe und Komfort miteinander verbinden möchten.",
     "icon":"",
     "image":"",
     "address":"",
@@ -1285,14 +1285,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.241246581888100,53.72301864488180 ]
+       "coordinates":  [ 53.72301864488180,7.241246581888100 ]
     },
     "properties": {
     "id":40,
     "name":"Oase-Strand",
     "category":"freizeit",
     "subcategory":"top5_straende",
-    "description":"Etwa sieben Kilometer ostlich der Stadtmitte liegt der Oase Strand, ein malerischer Ort, der besonders fur Familien und Paare geeignet ist. Der Strand bietet sowohl einen Bereich mit normaler Badebekleidung im westlichen Teil als auch einen separaten FKK-Bereich im ostlichen Abschnitt, der Ruhesuchenden ein ungestortes Ambiente ermoglicht. Mit Strandkorben, sicheren Badezonen fur Kinder und einem nahegelegenen Restaurant, das regionale Speisen und erfrischende Getranke serviert, ist der Oase Strand ideal fur entspannte Tage in schoner Umgebung.",
+    "description":"Etwa sieben Kilometer östlich der Stadtmitte liegt der Oase Strand, ein malerischer Ort, der besonders für Familien und Paare geeignet ist. Der Strand bietet sowohl einen Bereich mit normaler Badebekleidung im westlichen Teil als auch einen separaten FKK-Bereich im östlichen Abschnitt, der Ruhesuchenden ein ungestörtes Ambiente ermöglicht. Mit Strandkörben, sicheren Badezonen für Kinder und einem nahegelegenen Restaurant, das regionale Speisen und erfrischende Getränke serviert, ist der Oase Strand ideal für entspannte Tage in schöner Umgebung.",
     "icon":"",
     "image":"",
     "address":"",
@@ -1317,17 +1317,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1519159,53.7112007 ]
+       "coordinates":  [ 53.7112007,7.1519159 ]
     },
     "properties": {
     "id":42,
     "name":"Escape Room Norderney",
     "category":"freizeit",
     "subcategory":"indoor",
-    "description":"Der Escape Room Norderney ist die perfekte Aktivitat fur Abenteurer und Ratselliebhaber. Mit spannenden Themenraumen und kniffligen Aufgaben bietet er ein einzigartiges Erlebnis, das Teamgeist und Kreativitat erfordert. Ob als Familie, Gruppe von Freunden oder Arbeitskollegen - gemeinsam musst ihr versteckte Hinweise finden, Codes knacken und Ratsel losen, um dem Raum rechtzeitig zu entkommen. Die detailreichen Kulissen und die packende Atmosphare sorgen fur Nervenkitzel und Spas zugleich. Egal ob bei schlechtem Wetter oder als aufregende Erganzung zum Inselurlaub - der Escape Room Norderney garantiert unvergessliche Momente!",
+    "description":"Der Escape Room Norderney ist die perfekte Aktivität für Abenteurer und Rätselliebhaber. Mit spannenden Themenräumen und kniffligen Aufgaben bietet er ein einzigartiges Erlebnis, das Teamgeist und Kreativität erfordert. Ob als Familie, Gruppe von Freunden oder Arbeitskollegen – gemeinsam müsst ihr versteckte Hinweise finden, Codes knacken und Rätsel lösen, um dem Raum rechtzeitig zu entkommen. Die detailreichen Kulissen und die packende Atmosphäre sorgen für Nervenkitzel und Spaß zugleich. Egal ob bei schlechtem Wetter oder als aufregende Ergänzung zum Inselurlaub – der Escape Room Norderney garantiert unvergessliche Momente!",
     "icon":"",
     "image":"",
-    "address":"Tannenstrase 14, 26548 Norderney",
+    "address":"Tannenstraße 14, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -1349,14 +1349,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1596060828734600,53.711074588289 ]
+       "coordinates":  [ 53.711074588289,7.1596060828734600 ]
     },
     "properties": {
     "id":46,
     "name":"Sternwarte Norderney",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Die Sternwarte Norderney entfuhrt Besucher in die faszinierende Welt der Astronomie. Abseits von storendem Stadtlicht bietet sie einen klaren Blick auf den Nachthimmel und die beeindruckenden Sterne uber der Insel. Bei spannenden Fuhrungen und Vortragen erfahren Gaste mehr uber Planeten, Galaxien und kosmische Phanomene. Besonders beeindruckend sind die Beobachtungen durch das leistungsstarke Teleskop, das einen Blick in die unendlichen Weiten des Universums ermoglicht. Ob als lehrreicher Ausflug fur die ganze Familie oder als romantisches Highlight fur Paare - die Sternwarte ist ein Ort, der zum Staunen und Traumen einladt.",
+    "description":"Die Sternwarte Norderney entführt Besucher in die faszinierende Welt der Astronomie. Abseits von störendem Stadtlicht bietet sie einen klaren Blick auf den Nachthimmel und die beeindruckenden Sterne über der Insel. Bei spannenden Führungen und Vorträgen erfahren Gäste mehr über Planeten, Galaxien und kosmische Phänomene. Besonders beeindruckend sind die Beobachtungen durch das leistungsstarke Teleskop, das einen Blick in die unendlichen Weiten des Universums ermöglicht. Ob als lehrreicher Ausflug für die ganze Familie oder als romantisches Highlight für Paare – die Sternwarte ist ein Ort, der zum Staunen und Träumen einlädt.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b240a0f92a592a5e7114b_Sternwarte.jpg",
     "address":"Am Kap 31, 26548 Norderney",
@@ -1381,14 +1381,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1742946968602700,53.71422413869100 ]
+       "coordinates":  [ 53.71422413869100,7.1742946968602700 ]
     },
     "properties": {
     "id":47,
     "name":"Reitschule Junkmann",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden konnen Anfanger und Fortgeschrittene gleichermasen ihre Reitkunste verbessern oder einfach die Freude am Reiten geniesen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermoglicht Ausritte durch die Dunenlandschaft und entlang des Strandes - ein Highlight fur jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jungsten Besuchern spielerisch den Umgang mit Pferden naherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
+    "description":"Die Reitschule Junkmann auf Norderney bietet Reitbegeisterten jeden Alters unvergessliche Erlebnisse. Mit professionellen Trainern und liebevoll ausgebildeten Pferden können Anfänger und Fortgeschrittene gleichermaßen ihre Reitkünste verbessern oder einfach die Freude am Reiten genießen. Die Reitschule liegt inmitten der idyllischen Natur der Insel und ermöglicht Ausritte durch die Dünenlandschaft und entlang des Strandes – ein Highlight für jeden Pferdefreund. Zudem werden Kinderreitstunden und Ferienprogramme angeboten, die den jüngsten Besuchern spielerisch den Umgang mit Pferden näherbringen. Ein Ort, der tierische Freundschaften und besondere Erinnerungen schafft.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b2408ce202ec14360b93e_reitschule%20junkmann.jpg",
     "address":"Karl-Rieger-Weg 1a, 26548 Norderney",
@@ -1413,17 +1413,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.174763237730530,53.71142228722320 ]
+       "coordinates":  [ 53.71142228722320,7.174763237730530 ]
     },
     "properties": {
     "id":48,
     "name":"Norderneyer Brauhaus",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Das Norderneyer Brauhaus ist ein Muss fur alle, die die Kunst des Bierbrauens schatzen und einzigartige Geschmackserlebnisse suchen. In stilvollem, maritimem Ambiente werden hier frisch gebraute Bierspezialitaten angeboten, die mit regionalen Zutaten und viel Liebe zum Detail hergestellt werden. Ob ein kuhles Pils, ein wurziges Dunkelbier oder saisonale Spezialitaten - das Brauhaus uberzeugt mit Vielfalt und Qualitat. Neben den kostlichen Getranken lockt die Kuche mit deftigen Brauhausklassikern und frischen Gerichten. Regelmasige Events wie Bierverkostungen und Livemusik machen das Norderneyer Brauhaus zu einem lebendigen Treffpunkt fur Einheimische und Besucher.",
+    "description":"Das Norderneyer Brauhaus ist ein Muss für alle, die die Kunst des Bierbrauens schätzen und einzigartige Geschmackserlebnisse suchen. In stilvollem, maritimem Ambiente werden hier frisch gebraute Bierspezialitäten angeboten, die mit regionalen Zutaten und viel Liebe zum Detail hergestellt werden. Ob ein kühles Pils, ein würziges Dunkelbier oder saisonale Spezialitäten – das Brauhaus überzeugt mit Vielfalt und Qualität. Neben den köstlichen Getränken lockt die Küche mit deftigen Brauhausklassikern und frischen Gerichten. Regelmäßige Events wie Bierverkostungen und Livemusik machen das Norderneyer Brauhaus zu einem lebendigen Treffpunkt für Einheimische und Besucher.",
     "icon":"",
     "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca684e4027bc2a455d5_brauhalle.jpg",
-    "address":"Im Gewerbegelande 18, 26548 Norderney",
+    "address":"Im Gewerbegelände 18, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -1445,16 +1445,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.156669138407600,53.706230668308300 ]
+       "coordinates":  [ 53.706230668308300,7.156669138407600 ]
     },
     "properties": {
     "id":49,
-    "name":"Windmuhle Seiden Rust",
+    "name":"Windmühle Seiden Rüst",
     "category":"inselhighlights",
     "subcategory":"wahrzeichen",
-    "description":"Die historische Windmuhle Norderney, auch bekannt als \"Selden Rust\", ist ein beeindruckendes Wahrzeichen der Insel. Sie wurde im Jahr 1862 erbaut und diente einst als Kornmuhle, bevor sie spater zu einer Galeriehollandermuhle umgebaut wurde. Heute ist die liebevoll restaurierte Muhle ein beliebtes Fotomotiv und ein Zeugnis der traditionellen Handwerkskunst. Eingebettet in die wunderschone Landschaft der Insel, ladt die Windmuhle zu einem Ausflug in die Geschichte ein. Ein Besuch lohnt sich besonders fur Kulturinteressierte und alle, die Norderney von einer anderen Seite entdecken mochten",
+    "description":"Die historische Windmühle Norderney, auch bekannt als \"Selden Rüst\", ist ein beeindruckendes Wahrzeichen der Insel. Sie wurde im Jahr 1862 erbaut und diente einst als Kornmühle, bevor sie später zu einer Galerieholländermühle umgebaut wurde. Heute ist die liebevoll restaurierte Mühle ein beliebtes Fotomotiv und ein Zeugnis der traditionellen Handwerkskunst. Eingebettet in die wunderschöne Landschaft der Insel, lädt die Windmühle zu einem Ausflug in die Geschichte ein. Ein Besuch lohnt sich besonders für Kulturinteressierte und alle, die Norderney von einer anderen Seite entdecken möchten",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"Marienstr. 24 · 26548 Norderney",
     "opening hours":"",
     "tags":"",
@@ -1477,16 +1477,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.150256068185130,53.712600772779900 ]
+       "coordinates":  [ 53.712600772779900,7.150256068185130 ]
     },
     "properties": {
     "id":50,
     "name":"Segwey-Inseltour",
     "category":"freizeit",
     "subcategory":"outdoord",
-    "description":"Entdecken Sie Norderney auf einer unvergesslichen dreistundigen Segway-Inseltour! Nach einer personlichen Einweisung erkunden Sie die Insel mit einem modernen Segway i2 oder einem Scuddy, begleitet von einem erfahrenen Landtours-Tourguide. Die Tour ist fur alle ab 14 Jahren geeignet und bietet unterwegs eine halbstundige Pause, um die malerische Umgebung zu geniesen. Snacks und Getranke sind inklusive, ebenso wie kostenlose Fotos und Videos als Erinnerung an das Erlebnis. Ob allein, mit Familie oder Freunden - diese Tour ist ein Highlight fur alle, die die Insel aktiv und bequem entdecken mochten.",
+    "description":"Entdecken Sie Norderney auf einer unvergesslichen dreistündigen Segway-Inseltour! Nach einer persönlichen Einweisung erkunden Sie die Insel mit einem modernen Segway i2 oder einem Scuddy, begleitet von einem erfahrenen Landtours-Tourguide. Die Tour ist für alle ab 14 Jahren geeignet und bietet unterwegs eine halbstündige Pause, um die malerische Umgebung zu genießen. Snacks und Getränke sind inklusive, ebenso wie kostenlose Fotos und Videos als Erinnerung an das Erlebnis. Ob allein, mit Familie oder Freunden – diese Tour ist ein Highlight für alle, die die Insel aktiv und bequem entdecken möchten.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"Am Januskopf 8, Norderney",
     "opening hours":"",
     "tags":"",
@@ -1509,17 +1509,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1555705070495600,53.7064208984375 ]
+       "coordinates":  [ 53.7064208984375,7.1555705070495600 ]
     },
     "properties": {
     "id":51,
     "name":"Outdoor Lasertag",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Action, Strategie und Adrenalin - Outdoor Lasertag auf Norderney verspricht spannende Gefechte unter freiem Himmel. Ob im Schnee oder bei strahlendem Sonnenschein, hier wird jede Runde zu einem einzigartigen Erlebnis. Gespielt wird im Spielpark Kap Hoorn, wo Teams von 2 bis 10 Personen gegeneinander antreten und sich mit moderner Leihausrustung spannende Matches liefern. Jede Runde dauert 10 Minuten, sodass genugend Zeit fur taktische Manover bleibt. Perfekt fur Familien, Freunde oder Teams ab 8 Jahren, die ein actionreiches Abenteuer in der Natur suchen!",
+    "description":"Action, Strategie und Adrenalin – Outdoor Lasertag auf Norderney verspricht spannende Gefechte unter freiem Himmel. Ob im Schnee oder bei strahlendem Sonnenschein, hier wird jede Runde zu einem einzigartigen Erlebnis. Gespielt wird im Spielpark Kap Hoorn, wo Teams von 2 bis 10 Personen gegeneinander antreten und sich mit moderner Leihausrüstung spannende Matches liefern. Jede Runde dauert 10 Minuten, sodass genügend Zeit für taktische Manöver bleibt. Perfekt für Familien, Freunde oder Teams ab 8 Jahren, die ein actionreiches Abenteuer in der Natur suchen!",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
-    "address":"Muhlenstrase 20, 26548 Norderney",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
+    "address":"Mühlenstraße 20, 26548 Norderney",
     "opening hours":"",
     "tags":"",
     "features":"",
@@ -1541,16 +1541,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1449488,53.705281 ]
+       "coordinates":  [ 53.705281,7.1449488 ]
     },
     "properties": {
     "id":52,
-    "name":"Gefuhrte Fahrradtouren",
+    "name":"Geführte Fahrradtouren",
     "category":"freizeit",
     "subcategory":"outdoor",
-    "description":"Erleben Sie die schonsten Seiten Norderneys bei der Classic Fahrradtour - eine rund 10 km lange Entdeckungstour durch die beeindruckende Dunenlandschaft und zu den bekanntesten Hot-Spots der Insel. In 2,5 Stunden fuhren einheimische Guides die Teilnehmer durch den West- und Ostteil Norderneys und vermitteln spannende Einblicke in die Geschichte und Gegenwart der Insel.",
+    "description":"Erleben Sie die schönsten Seiten Norderneys bei der Classic Fahrradtour – eine rund 10 km lange Entdeckungstour durch die beeindruckende Dünenlandschaft und zu den bekanntesten Hot-Spots der Insel. In 2,5 Stunden führen einheimische Guides die Teilnehmer durch den West- und Ostteil Norderneys und vermitteln spannende Einblicke in die Geschichte und Gegenwart der Insel.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"Adolfsreihe 6. 26548 Norderney",
     "opening hours":"",
     "tags":"",
@@ -1573,16 +1573,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1411633439863165,53.703012513690965 ]
+       "coordinates":  [ 53.703012513690965,7.1411633439863165 ]
     },
     "properties": {
     "id":53,
     "name":"Strandpromenade",
     "category":"freizeit",
     "subcategory":"top5_must_sees",
-    "description":"Die Strandpromenade bietet einen traumhaften Blick auf die Nordsee und ladt zum entspannten Flanieren ein. Direkt daneben liegt der Weststrand, der mit feinem Sand und gemutlichen Strandkorben perfekt fur eine kleine Auszeit ist. Hier spurt man die besondere maritime Atmosphare der Insel.",
+    "description":"Die Strandpromenade bietet einen traumhaften Blick auf die Nordsee und lädt zum entspannten Flanieren ein. Direkt daneben liegt der Weststrand, der mit feinem Sand und gemütlichen Strandkörben perfekt für eine kleine Auszeit ist. Hier spürt man die besondere maritime Atmosphäre der Insel.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1605,16 +1605,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.144952102815867,53.704577748926866 ]
+       "coordinates":  [ 53.704577748926866,7.144952102815867 ]
     },
     "properties": {
     "id":54,
     "name":"Kurplatz",
     "category":"freizeit",
     "subcategory":"top5_must_sees",
-    "description":"Der Kurplatz ist das Herzstuck der Insel und umgeben von historischen Gebauden wie dem Conversationshaus. Hier finden regelmasig Konzerte und Veranstaltungen statt, die fur eine besondere Atmosphare sorgen. Ein idealer Ort zum Verweilen und das Inselleben zu geniesen.",
+    "description":"Der Kurplatz ist das Herzstück der Insel und umgeben von historischen Gebäuden wie dem Conversationshaus. Hier finden regelmäßig Konzerte und Veranstaltungen statt, die für eine besondere Atmosphäre sorgen. Ein idealer Ort zum Verweilen und das Inselleben zu genießen.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1637,16 +1637,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1438107,53.7081663 ]
+       "coordinates":  [ 53.7081663,7.1438107 ]
     },
     "properties": {
     "id":55,
-    "name":"Friedrichstrase",
+    "name":"Friedrichstraße",
     "category":"freizeit",
     "subcategory":"top5_must_sees",
-    "description":"Die Friedrichstrase ist die lebendige Einkaufsstrase von Norderney und das Zentrum des Insellebens. Hier findest du Boutiquen, Cafes und Restaurants, die zum Bummeln und Verweilen einladen. Von Souvenirs bis hin zu regionalen Spezialitaten gibt es hier alles, was das Herz begehrt.",
+    "description":"Die Friedrichstraße ist die lebendige Einkaufsstraße von Norderney und das Zentrum des Insellebens. Hier findest du Boutiquen, Cafés und Restaurants, die zum Bummeln und Verweilen einladen. Von Souvenirs bis hin zu regionalen Spezialitäten gibt es hier alles, was das Herz begehrt.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1669,16 +1669,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.167611122131348,53.7026252746582 ]
+       "coordinates":  [ 53.7026252746582,7.167611122131348 ]
     },
     "properties": {
     "id":56,
     "name":"Jachthafen",
     "category":"freizeit",
     "subcategory":"top5_must_sees",
-    "description":"Der Jachthafen von Norderney bietet einen wunderschonen Blick auf das Wattenmeer und die zahlreichen Segelboote und Yachten, die hier anlegen. Besonders bei Sonnenuntergang entsteht eine idyllische Atmosphare mit maritimem Flair. Wer die Hafenstimmung liebt, kann hier entspannen und den Schiffen beim Ein- und Auslaufen zusehen.",
+    "description":"Der Jachthafen von Norderney bietet einen wunderschönen Blick auf das Wattenmeer und die zahlreichen Segelboote und Yachten, die hier anlegen. Besonders bei Sonnenuntergang entsteht eine idyllische Atmosphäre mit maritimem Flair. Wer die Hafenstimmung liebt, kann hier entspannen und den Schiffen beim Ein- und Auslaufen zusehen.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1701,16 +1701,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.194940640686309,53.714825736714914 ]
+       "coordinates":  [ 53.714825736714914,7.194940640686309 ]
     },
     "properties": {
     "id":57,
-    "name":"Dunenlandschaft",
+    "name":"Dünenlandschaft",
     "category":"freizeit",
     "subcategory":"top5_must_sees",
-    "description":"Die weitlaufigen Dunen sind ein echtes Naturparadies und laden zu entspannten Spaziergangen oder Radtouren ein. Besonders rund um die Weise Dune oder am Nordstrand kannst du die unberuhrte Natur geniesen. Die Dunen bieten nicht nur eine traumhafte Kulisse, sondern auch Ruhe und Erholung abseits des Trubels.",
+    "description":"Die weitläufigen Dünen sind ein echtes Naturparadies und laden zu entspannten Spaziergängen oder Radtouren ein. Besonders rund um die Weiße Düne oder am Nordstrand kannst du die unberührte Natur genießen. Die Dünen bieten nicht nur eine traumhafte Kulisse, sondern auch Ruhe und Erholung abseits des Trubels.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1733,16 +1733,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1387478,53.7081771 ]
+       "coordinates":  [ 53.7081771,7.1387478 ]
     },
     "properties": {
     "id":58,
     "name":"Milchbar",
     "category":"freizeit",
     "subcategory":"top5_cafes_bars",
-    "description":"Die Milchbar ist der perfekte Spot fur einen atemberaubenden Sonnenuntergang mit chilliger Musik. Direkt an der Promenade gelegen, bietet sie eine entspannte Atmosphare und leckere Drinks mit Meerblick. Besonders beliebt sind die hausgemachten Kuchen und Kaffeespezialitaten.",
+    "description":"Die Milchbar ist der perfekte Spot für einen atemberaubenden Sonnenuntergang mit chilliger Musik. Direkt an der Promenade gelegen, bietet sie eine entspannte Atmosphäre und leckere Drinks mit Meerblick. Besonders beliebt sind die hausgemachten Kuchen und Kaffeespezialitäten.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1765,16 +1765,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1509768,53.7124844 ]
+       "coordinates":  [ 53.7124844,7.1509768 ]
     },
     "properties": {
     "id":59,
     "name":"Surfcafe",
     "category":"freizeit",
     "subcategory":"top5_cafes_bars",
-    "description":"Das Surfcafe kombiniert entspannte Strandvibes mit leckerem Essen und tollen Fruhstucksangeboten. Es liegt direkt am Nordstrand und ist der ideale Ort fur eine kleine Pause nach einem Spaziergang. Besonders die hausgemachten Kuchen und das frische Fruhstuck sind sehr beliebt.",
+    "description":"Das Surfcafé kombiniert entspannte Strandvibes mit leckerem Essen und tollen Frühstücksangeboten. Es liegt direkt am Nordstrand und ist der ideale Ort für eine kleine Pause nach einem Spaziergang. Besonders die hausgemachten Kuchen und das frische Frühstück sind sehr beliebt.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1797,16 +1797,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1382918167871745,53.707017014341034 ]
+       "coordinates":  [ 53.707017014341034,7.1382918167871745 ]
     },
     "properties": {
     "id":60,
-    "name":"Marienhohe",
+    "name":"Marienhöhe",
     "category":"freizeit",
     "subcategory":"top5_cafes_bars",
-    "description":"Das Cafe Marienhohe ist eines der altesten Cafes auf Norderney und bietet einen traumhaften Blick auf die Nordsee. Hier kannst du in stilvollem Ambiente hausgemachte Torten geniesen und dabei die frische Meeresluft einatmen. Die Lage auf einer kleinen Anhohe macht es besonders einzigartig.",
+    "description":"Das Café Marienhöhe ist eines der ältesten Cafés auf Norderney und bietet einen traumhaften Blick auf die Nordsee. Hier kannst du in stilvollem Ambiente hausgemachte Torten genießen und dabei die frische Meeresluft einatmen. Die Lage auf einer kleinen Anhöhe macht es besonders einzigartig.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1829,16 +1829,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.208630225336850,53.722991505513400 ]
+       "coordinates":  [ 53.722991505513400,7.208630225336850 ]
     },
     "properties": {
     "id":61,
-    "name":"Weise Dune",
+    "name":"Weiße Düne",
     "category":"freizeit",
     "subcategory":"top5_cafes_bars",
-    "description":"Die Weise Dune liegt etwas auserhalb der Stadt, mitten in den Dunen, und bietet ein erstklassiges kulinarisches Erlebnis. Neben ausgezeichnetem Kaffee gibt es hier auch regionale Spezialitaten und eine tolle Auswahl an Fruhstucks- und Mittagsgerichten. Perfekt fur eine kleine Auszeit in der Natur.",
+    "description":"Die Weiße Düne liegt etwas außerhalb der Stadt, mitten in den Dünen, und bietet ein erstklassiges kulinarisches Erlebnis. Neben ausgezeichnetem Kaffee gibt es hier auch regionale Spezialitäten und eine tolle Auswahl an Frühstücks- und Mittagsgerichten. Perfekt für eine kleine Auszeit in der Natur.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1861,16 +1861,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.143804550170898,53.70825958251953 ]
+       "coordinates":  [ 53.70825958251953,7.143804550170898 ]
     },
     "properties": {
     "id":62,
-    "name":"Cafe Friedrich",
+    "name":"Café Friedrich",
     "category":"freizeit",
     "subcategory":"top5_cafes_bars",
-    "description":"Das Cafe Friedrich liegt zentral in der Friedrichstrase und ist ein Klassiker auf Norderney. Es besticht durch sein gemutliches Ambiente und die grose Auswahl an hausgemachten Kuchen und Torten. Ideal fur eine kleine Verschnaufpause beim Stadtbummel.",
+    "description":"Das Café Friedrich liegt zentral in der Friedrichstraße und ist ein Klassiker auf Norderney. Es besticht durch sein gemütliches Ambiente und die große Auswahl an hausgemachten Kuchen und Torten. Ideal für eine kleine Verschnaufpause beim Stadtbummel.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1893,16 +1893,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.138742611111923,53.70738068717688 ]
+       "coordinates":  [ 53.70738068717688,7.138742611111923 ]
     },
     "properties": {
     "id":63,
     "name":"Seesteg",
     "category":"freizeit",
     "subcategory":"top5_restaurants",
-    "description":"Das Seesteg ist das exklusivste Restaurant auf Norderney und bietet Fine Dining mit Blick auf die Nordsee. Hier erwarten dich erstklassige, kreative Gerichte mit regionalen Zutaten in stilvollem Ambiente. Perfekt fur ein besonderes Dinner mit einzigartiger Atmosphare.",
+    "description":"Das Seesteg ist das exklusivste Restaurant auf Norderney und bietet Fine Dining mit Blick auf die Nordsee. Hier erwarten dich erstklassige, kreative Gerichte mit regionalen Zutaten in stilvollem Ambiente. Perfekt für ein besonderes Dinner mit einzigartiger Atmosphäre.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1925,16 +1925,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.138742611111923,53.70738068717688 ]
+       "coordinates":  [ 53.70738068717688,7.138742611111923 ]
     },
     "properties": {
     "id":64,
     "name":"Restaurant Oktopussy",
     "category":"freizeit",
     "subcategory":"top5_restaurants",
-    "description":"Das Oktopussy ist ein stylisches Restaurant mit maritimem Flair und einer besonderen Auswahl an Fisch- und Fleischgerichten. Die offene Kuche sorgt fur ein spannendes Live-Kocherlebnis. Hier treffen hochwertige Zutaten auf moderne Zubereitung.",
+    "description":"Das Oktopussy ist ein stylisches Restaurant mit maritimem Flair und einer besonderen Auswahl an Fisch- und Fleischgerichten. Die offene Küche sorgt für ein spannendes Live-Kocherlebnis. Hier treffen hochwertige Zutaten auf moderne Zubereitung.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1957,16 +1957,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.142398279499287,53.70201517687193 ]
+       "coordinates":  [ 53.70201517687193,7.142398279499287 ]
     },
     "properties": {
     "id":65,
     "name":"Giftbude",
     "category":"freizeit",
     "subcategory":"top5_restaurants",
-    "description":"Direkt am Weststrand gelegen, ist die Giftbude die perfekte Adresse fur entspanntes Essen mit Strandblick. Hier gibt es kreative Burger, frische Bowls und leckere Drinks. Ideal fur eine ungezwungene Mahlzeit mit Meeresrauschen im Hintergrund.",
+    "description":"Direkt am Weststrand gelegen, ist die Giftbude die perfekte Adresse für entspanntes Essen mit Strandblick. Hier gibt es kreative Burger, frische Bowls und leckere Drinks. Ideal für eine ungezwungene Mahlzeit mit Meeresrauschen im Hintergrund.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -1989,16 +1989,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.1509768,53.7124844 ]
+       "coordinates":  [ 53.7124844,7.1509768 ]
     },
     "properties": {
     "id":66,
     "name":"Surfcafe",
     "category":"freizeit",
     "subcategory":"top5_restaurants",
-    "description":"Das Surfcafe ist nicht nur ein Cafe, sondern bietet auch eine tolle Auswahl an herzhaften Gerichten. Von frischen Fischgerichten bis hin zu vegetarischen Bowls - hier gibt es fur jeden Geschmack etwas. Die entspannte Atmosphare am Nordstrand macht es zu einem perfekten Ort fur einen gemutlichen Abend.",
+    "description":"Das Surfcafé ist nicht nur ein Café, sondern bietet auch eine tolle Auswahl an herzhaften Gerichten. Von frischen Fischgerichten bis hin zu vegetarischen Bowls – hier gibt es für jeden Geschmack etwas. Die entspannte Atmosphäre am Nordstrand macht es zu einem perfekten Ort für einen gemütlichen Abend.",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -2021,16 +2021,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.147134335118848,53.709961891011254 ]
+       "coordinates":  [ 53.709961891011254,7.147134335118848 ]
     },
     "properties": {
     "id":67,
     "name":"Fischgeniesserei",
     "category":"freizeit",
     "subcategory":"top5_restaurants",
-    "description":"Die Fischgeniesserei bietet frische Fischspezialitaten in maritimer Atmosphare. Besonders die Tagesfange und die hausgemachten Beilagen werden von Gasten gelobt.​de.restaurantguru.com+2",
+    "description":"Die Fischgeniesserei bietet frische Fischspezialitäten in maritimer Atmosphäre. Besonders die Tagesfänge und die hausgemachten Beilagen werden von Gästen gelobt.​de.restaurantguru.com+2",
     "icon":"",
-    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmuhle.jpg",
+    "image":"https://cdn.prod.website-files.com/670661a65d47d9da870f3d66/679b1ca636db5451969f95b5_Windmühle.jpg",
     "address":"",
     "opening hours":"",
     "tags":"",
@@ -2040,7 +2040,7 @@
     "price":"",
     "web":"https://www.fischgeniesserei.de/?fbclid=PAZXh0bgNhZW0CMTEAAaYR3FaS83mA4DoDs7emltbdgUQYusDL28crpXE_pi89-WV_SYc2PHVfyI8_aem_jdzbjizOVtDRtXcwyrkrUA",
     "menu":"",
-    "phone":" 01602654826",
+    "phone":" 01602654826",
     "facebook":"https://www.facebook.com/fischgeniesserei",
     "instagram":"https://www.instagram.com/fischgeniesserei/",
     "booking":"https://gastronaut.ai/reservations/fischgeniesserei-norderney?subdomain=reservation&fbclid=PAZXh0bgNhZW0CMTEAAaYPQaK2anb0R97Z50hPPlvv3d-YD1z2zxPOlwGhhgbIeUqxSrHNMhBmS-s_aem_WNvhPHEGAeYANkhNeJwTRA",
